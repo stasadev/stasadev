@@ -14,10 +14,6 @@
 4. 💪 Opened PR [#124](https://github.com/Shatur/optimus-manager-qt/pull/124) in [Shatur/optimus-manager-qt](https://github.com/Shatur/optimus-manager-qt)<br>
 5. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
 6. 👍 Approved [#4437](https://github.com/drud/ddev/pull/4437#pullrequestreview-1208900387) in [drud/ddev](https://github.com/drud/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
