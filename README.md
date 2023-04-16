@@ -8,16 +8,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. ❗️ Opened issue [#2117](https://github.com/Jguer/yay/issues/2117) in [Jguer/yay](https://github.com/Jguer/yay)<br>
 2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 20 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. 💪 Opened PR [#4766](https://github.com/ddev/ddev/pull/4766) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ⬆️ Pushed 11 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 13 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 20 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. 💪 Opened PR [#4766](https://github.com/ddev/ddev/pull/4766) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. ⬆️ Pushed 11 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. ⬆️ Pushed 13 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
