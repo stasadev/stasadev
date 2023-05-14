@@ -8,16 +8,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#4871](https://github.com/ddev/ddev/issues/4871) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ❗️ Opened issue [#4871](https://github.com/ddev/ddev/issues/4871) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ✔️ Closed issue [#4827](https://github.com/ddev/ddev/issues/4827) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. ❗️ Opened issue [#4827](https://github.com/ddev/ddev/issues/4827) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. ❗️ Opened issue [#2117](https://github.com/Jguer/yay/issues/2117) in [Jguer/yay](https://github.com/Jguer/yay)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 20 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. 💪 Opened PR [#4890](https://github.com/ddev/ddev/pull/4890) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 50 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ✔️ Closed issue [#4871](https://github.com/ddev/ddev/issues/4871) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ❗️ Opened issue [#4871](https://github.com/ddev/ddev/issues/4871) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. ✔️ Closed issue [#4827](https://github.com/ddev/ddev/issues/4827) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ❗️ Opened issue [#4827](https://github.com/ddev/ddev/issues/4827) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ❗️ Opened issue [#2117](https://github.com/Jguer/yay/issues/2117) in [Jguer/yay](https://github.com/Jguer/yay)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. ⬆️ Pushed 20 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
