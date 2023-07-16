@@ -8,16 +8,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#4877](https://github.com/ddev/ddev/pull/4877#pullrequestreview-1513246175) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ❗️ Opened issue [#5065](https://github.com/ddev/ddev/issues/5065) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-5. ✌️ Released [1.0.0](https://github.com/stasadev/laravel-slack-notifier/releases/tag/1.0.0) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-7. 🎉 Merged PR [#4](https://github.com/stasadev/laravel-slack-notifier/pull/4) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-8. 💪 Opened PR [#4](https://github.com/stasadev/laravel-slack-notifier/pull/4) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-10. ⬆️ Pushed 0 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. 💪 Opened PR [#5137](https://github.com/ddev/ddev/pull/5137) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. ✔️ Closed issue [#5135](https://github.com/ddev/ddev/issues/5135) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ❗️ Opened issue [#5135](https://github.com/ddev/ddev/issues/5135) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
+8. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
+9. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
+10. 👍 Approved [#5128](https://github.com/ddev/ddev/pull/5128#pullrequestreview-1527819640) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
