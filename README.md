@@ -8,16 +8,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5185](https://github.com/ddev/ddev/pull/5185) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. 💪 Opened PR [#5137](https://github.com/ddev/ddev/pull/5137) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. ✔️ Closed issue [#5135](https://github.com/ddev/ddev/issues/5135) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ❗️ Opened issue [#5135](https://github.com/ddev/ddev/issues/5135) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-9. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
+1. 💪 Opened PR [#5212](https://github.com/ddev/ddev/pull/5212) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
+5. 💪 Opened PR [#17](https://github.com/ddev/ddev-redis/pull/17) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+6. ⬆️ Pushed 3 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
+9. ⬆️ Pushed 1 commit(s) to [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+10. ⬆️ Pushed 0 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
