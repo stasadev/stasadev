@@ -8,16 +8,16 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-2. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-3. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-4. 👍 Approved [#5313](https://github.com/ddev/ddev/pull/5313#pullrequestreview-1607306490) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#5313](https://github.com/ddev/ddev/pull/5313#pullrequestreview-1607306490) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 8 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. 💪 Opened PR [#5305](https://github.com/ddev/ddev/pull/5305) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ⬆️ Pushed 32 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/plugins](https://github.com/stasadev/plugins)<br>
+1. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. 💪 Opened PR [#5331](https://github.com/ddev/ddev/pull/5331) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 8 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
+9. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
+10. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
