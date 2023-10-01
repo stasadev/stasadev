@@ -1,5 +1,7 @@
 <h3>Hi there :wave:</h3>
 
+My name is Stas.
+
 - I am a PHP developer since 2018
 - I am experienced in the entire project development life cycle, including coding, software testing, and debugging
 - My preferred technology stack consists of Laravel and Vue.js
