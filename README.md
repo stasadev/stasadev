@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. ✔️ Closed issue [#5193](https://github.com/ddev/ddev/issues/5193) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 🎉 Merged PR [#5305](https://github.com/ddev/ddev/pull/5305) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. ⬆️ Pushed 16 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [ddev/ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher)<br>
-8. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 🎉 Merged PR [#5464](https://github.com/ddev/ddev/pull/5464) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💪 Opened PR [#5464](https://github.com/ddev/ddev/pull/5464) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. 🔴 Requested changes in [#5489](https://github.com/ddev/ddev/pull/5489#pullrequestreview-1709850227) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 👍 Approved [#5241](https://github.com/ddev/ddev/pull/5241#pullrequestreview-1709807735) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. 👍 Approved [#4805](https://github.com/ddev/ddev/pull/4805#pullrequestreview-1707859778) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 11 commit(s) to [longwave/ddev](https://github.com/longwave/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [ddev/ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher)<br>
+10. 🎉 Merged PR [#5481](https://github.com/ddev/ddev/pull/5481) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
