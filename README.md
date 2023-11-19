@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5529](https://github.com/ddev/ddev/pull/5529) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. 👍 Approved [#5521](https://github.com/ddev/ddev/pull/5521#pullrequestreview-1737452587) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 10 commit(s) to [stasadev/ddev-intellij-plugin](https://github.com/stasadev/ddev-intellij-plugin)<br>
 3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 8 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. 👍 Approved [#5499](https://github.com/ddev/ddev/pull/5499#pullrequestreview-1725220074) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#5519](https://github.com/ddev/ddev/pull/5519#pullrequestreview-1725071109) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ❌ Closed PR [#257](https://github.com/php-perfect/ddev-intellij-plugin/pull/257) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
-10. 💪 Opened PR [#257](https://github.com/php-perfect/ddev-intellij-plugin/pull/257) in [php-perfect/ddev-intellij-plugin](https://github.com/php-perfect/ddev-intellij-plugin)<br>
+4. ⬆️ Pushed 38 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. 💪 Opened PR [#5545](https://github.com/ddev/ddev/pull/5545) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. 💪 Opened PR [#5541](https://github.com/ddev/ddev/pull/5541) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#5453](https://github.com/ddev/ddev/pull/5453#pullrequestreview-1732711631) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
