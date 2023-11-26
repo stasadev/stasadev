@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5521](https://github.com/ddev/ddev/pull/5521#pullrequestreview-1737452587) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 10 commit(s) to [stasadev/ddev-intellij-plugin](https://github.com/stasadev/ddev-intellij-plugin)<br>
+1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. 💪 Opened PR [#5566](https://github.com/ddev/ddev/pull/5566) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 38 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. 💪 Opened PR [#5545](https://github.com/ddev/ddev/pull/5545) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. 💪 Opened PR [#5541](https://github.com/ddev/ddev/pull/5541) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 👍 Approved [#5453](https://github.com/ddev/ddev/pull/5453#pullrequestreview-1732711631) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. 💪 Opened PR [#5565](https://github.com/ddev/ddev/pull/5565) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. 💪 Opened PR [#5564](https://github.com/ddev/ddev/pull/5564) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 👍 Approved [#5489](https://github.com/ddev/ddev/pull/5489#pullrequestreview-1746611752) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💪 Opened PR [#5563](https://github.com/ddev/ddev/pull/5563) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
