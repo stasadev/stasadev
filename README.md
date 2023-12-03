@@ -11,15 +11,15 @@ My name is Stas.
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. 💪 Opened PR [#5566](https://github.com/ddev/ddev/pull/5566) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. 💪 Opened PR [#5565](https://github.com/ddev/ddev/pull/5565) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. 💪 Opened PR [#5564](https://github.com/ddev/ddev/pull/5564) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#5489](https://github.com/ddev/ddev/pull/5489#pullrequestreview-1746611752) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💪 Opened PR [#5563](https://github.com/ddev/ddev/pull/5563) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. 💪 Opened PR [#5586](https://github.com/ddev/ddev/pull/5586) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. 👍 Approved [#149](https://github.com/ddev/ddev.com/pull/149#pullrequestreview-1755794141) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. 👍 Approved [#5572](https://github.com/ddev/ddev/pull/5572#pullrequestreview-1755432986) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
+7. ✌️ Released [v1.2.0 Add optional persistence](https://github.com/ddev/ddev-redis/releases/tag/v1.2.0) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+8. ⬆️ Pushed 1 commit(s) to [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+9. 🎉 Merged PR [#19](https://github.com/ddev/ddev-redis/pull/19) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+10. 💪 Opened PR [#18](https://github.com/ddev/ddev-sqlsrv/pull/18) in [ddev/ddev-sqlsrv](https://github.com/ddev/ddev-sqlsrv)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
