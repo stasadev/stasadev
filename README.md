@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. 💪 Opened PR [#5586](https://github.com/ddev/ddev/pull/5586) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. 👍 Approved [#149](https://github.com/ddev/ddev.com/pull/149#pullrequestreview-1755794141) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-5. 👍 Approved [#5572](https://github.com/ddev/ddev/pull/5572#pullrequestreview-1755432986) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-redis](https://github.com/stasadev/ddev-redis)<br>
-7. ✌️ Released [v1.2.0 Add optional persistence](https://github.com/ddev/ddev-redis/releases/tag/v1.2.0) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-8. ⬆️ Pushed 1 commit(s) to [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-9. 🎉 Merged PR [#19](https://github.com/ddev/ddev-redis/pull/19) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-10. 💪 Opened PR [#18](https://github.com/ddev/ddev-sqlsrv/pull/18) in [ddev/ddev-sqlsrv](https://github.com/ddev/ddev-sqlsrv)<br>
+1. 💪 Opened PR [#5612](https://github.com/ddev/ddev/pull/5612) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-phpmyadmin](https://github.com/stasadev/ddev-phpmyadmin)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-adminer](https://github.com/stasadev/ddev-adminer)<br>
+5. 👍 Approved [#5608](https://github.com/ddev/ddev/pull/5608#pullrequestreview-1770023625) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💪 Opened PR [#10](https://github.com/ddev/ddev-phpmyadmin/pull/10) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
+7. 💪 Opened PR [#20](https://github.com/ddev/ddev-adminer/pull/20) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+8. 👍 Approved [#5603](https://github.com/ddev/ddev/pull/5603#pullrequestreview-1769944914) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
