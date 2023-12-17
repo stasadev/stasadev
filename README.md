@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5612](https://github.com/ddev/ddev/pull/5612) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-phpmyadmin](https://github.com/stasadev/ddev-phpmyadmin)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-adminer](https://github.com/stasadev/ddev-adminer)<br>
-5. 👍 Approved [#5608](https://github.com/ddev/ddev/pull/5608#pullrequestreview-1770023625) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💪 Opened PR [#10](https://github.com/ddev/ddev-phpmyadmin/pull/10) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
-7. 💪 Opened PR [#20](https://github.com/ddev/ddev-adminer/pull/20) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-8. 👍 Approved [#5603](https://github.com/ddev/ddev/pull/5603#pullrequestreview-1769944914) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [ddev/ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher)<br>
+4. 🎉 Merged PR [#28](https://github.com/ddev/ddev-gitpod-launcher/pull/28) in [ddev/ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher)<br>
+5. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 🎉 Merged PR [#5628](https://github.com/ddev/ddev/pull/5628) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💪 Opened PR [#28](https://github.com/ddev/ddev-gitpod-launcher/pull/28) in [ddev/ddev-gitpod-launcher](https://github.com/ddev/ddev-gitpod-launcher)<br>
+8. 💪 Opened PR [#5628](https://github.com/ddev/ddev/pull/5628) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ✌️ Released [v1.22.6: PHP 8.3.0](https://github.com/ddev/ddev/releases/tag/v1.22.6) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
