@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#5650](https://github.com/ddev/ddev/pull/5650) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ❌ Closed PR [#5652](https://github.com/ddev/ddev/pull/5652) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💪 Opened PR [#5658](https://github.com/ddev/ddev/pull/5658) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💪 Opened PR [#5657](https://github.com/ddev/ddev/pull/5657) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#5632](https://github.com/ddev/ddev/pull/5632#pullrequestreview-1793440933) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 👍 Approved [#5653](https://github.com/ddev/ddev/pull/5653#pullrequestreview-1791512417) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 👍 Approved [#5654](https://github.com/ddev/ddev/pull/5654#pullrequestreview-1791511846) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
-9. 💪 Opened PR [#836](https://github.com/bats-core/bats-core/pull/836) in [bats-core/bats-core](https://github.com/bats-core/bats-core)<br>
-10. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. 🎉 Merged PR [#34](https://github.com/ddev/awesome-ddev/pull/34) in [ddev/awesome-ddev](https://github.com/ddev/awesome-ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [ddev/awesome-ddev](https://github.com/ddev/awesome-ddev)<br>
+3. 👍 Approved [#34](https://github.com/ddev/awesome-ddev/pull/34#pullrequestreview-1799153767) in [ddev/awesome-ddev](https://github.com/ddev/awesome-ddev)<br>
+4. 🔴 Requested changes in [#5651](https://github.com/ddev/ddev/pull/5651#pullrequestreview-1798346208) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 🔴 Requested changes in [#5663](https://github.com/ddev/ddev/pull/5663#pullrequestreview-1798323119) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [GuySartorelli/ddev](https://github.com/GuySartorelli/ddev)<br>
+8. ⬆️ Pushed 16 commit(s) to [GuySartorelli/ddev](https://github.com/GuySartorelli/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [GuySartorelli/ddev](https://github.com/GuySartorelli/ddev)<br>
+10. ⬆️ Pushed 5 commit(s) to [tyler36/ddev](https://github.com/tyler36/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
