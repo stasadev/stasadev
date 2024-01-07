@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#34](https://github.com/ddev/awesome-ddev/pull/34) in [ddev/awesome-ddev](https://github.com/ddev/awesome-ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [ddev/awesome-ddev](https://github.com/ddev/awesome-ddev)<br>
-3. 👍 Approved [#34](https://github.com/ddev/awesome-ddev/pull/34#pullrequestreview-1799153767) in [ddev/awesome-ddev](https://github.com/ddev/awesome-ddev)<br>
-4. 🔴 Requested changes in [#5651](https://github.com/ddev/ddev/pull/5651#pullrequestreview-1798346208) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 🔴 Requested changes in [#5663](https://github.com/ddev/ddev/pull/5663#pullrequestreview-1798323119) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [GuySartorelli/ddev](https://github.com/GuySartorelli/ddev)<br>
-8. ⬆️ Pushed 16 commit(s) to [GuySartorelli/ddev](https://github.com/GuySartorelli/ddev)<br>
-9. ⬆️ Pushed 1 commit(s) to [GuySartorelli/ddev](https://github.com/GuySartorelli/ddev)<br>
-10. ⬆️ Pushed 5 commit(s) to [tyler36/ddev](https://github.com/tyler36/ddev)<br>
+1. ❌ Closed PR [#5681](https://github.com/ddev/ddev/pull/5681) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
+3. 📔 Created new repository [stasadev/test1](https://github.com/stasadev/test1)<br>
+4. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+5. 🎉 Merged PR [#42](https://github.com/ddev/ddev-addon-template/pull/42) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
+9. ⬆️ Pushed 2 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
+10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
