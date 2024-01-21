@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-2. 🔴 Requested changes in [#5684](https://github.com/ddev/ddev/pull/5684#pullrequestreview-1809962402) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 👍 Approved [#5651](https://github.com/ddev/ddev/pull/5651#pullrequestreview-1809771275) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. ❌ Closed PR [#5681](https://github.com/ddev/ddev/pull/5681) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
-6. 📔 Created new repository [stasadev/test1](https://github.com/stasadev/test1)<br>
-7. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-8. 🎉 Merged PR [#42](https://github.com/ddev/ddev-addon-template/pull/42) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-template](https://github.com/stasadev/ddev-addon-template)<br>
+1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. 👍 Approved [#5716](https://github.com/ddev/ddev/pull/5716#pullrequestreview-1833486666) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 🔴 Requested changes in [#5716](https://github.com/ddev/ddev/pull/5716#pullrequestreview-1833475362) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💪 Opened PR [#5707](https://github.com/ddev/ddev/pull/5707) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ❌ Closed PR [#5703](https://github.com/ddev/ddev/pull/5703) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 👍 Approved [#5695](https://github.com/ddev/ddev/pull/5695#pullrequestreview-1827154381) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ⬆️ Pushed 6 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. 🎉 Merged PR [#5651](https://github.com/ddev/ddev/pull/5651) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
