@@ -4,7 +4,7 @@ My name is Stas.
 
 - I am a PHP developer since 2018
 - I am experienced in the entire project development life cycle, including coding, software testing, and debugging
-- My preferred technology stack consists of Laravel and Vue.js
+- Recently, I took on the role of DDEV maintainer
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
