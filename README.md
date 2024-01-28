@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. 👍 Approved [#5716](https://github.com/ddev/ddev/pull/5716#pullrequestreview-1833486666) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 🔴 Requested changes in [#5716](https://github.com/ddev/ddev/pull/5716#pullrequestreview-1833475362) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💪 Opened PR [#5707](https://github.com/ddev/ddev/pull/5707) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ❌ Closed PR [#5703](https://github.com/ddev/ddev/pull/5703) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#5695](https://github.com/ddev/ddev/pull/5695#pullrequestreview-1827154381) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ⬆️ Pushed 6 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. 🎉 Merged PR [#5651](https://github.com/ddev/ddev/pull/5651) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💪 Opened PR [#5745](https://github.com/ddev/ddev/pull/5745) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 17 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 14 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 🎉 Merged PR [#5741](https://github.com/ddev/ddev/pull/5741) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 🎉 Merged PR [#5738](https://github.com/ddev/ddev/pull/5738) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 🎉 Merged PR [#5733](https://github.com/ddev/ddev/pull/5733) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. ✔️ Closed issue [#5727](https://github.com/ddev/ddev/issues/5727) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
