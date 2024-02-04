@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#5745](https://github.com/ddev/ddev/pull/5745) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 17 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 14 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 🎉 Merged PR [#5741](https://github.com/ddev/ddev/pull/5741) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 🎉 Merged PR [#5738](https://github.com/ddev/ddev/pull/5738) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 🎉 Merged PR [#5733](https://github.com/ddev/ddev/pull/5733) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. ✔️ Closed issue [#5727](https://github.com/ddev/ddev/issues/5727) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 🎉 Merged PR [#5765](https://github.com/ddev/ddev/pull/5765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+6. 💪 Opened PR [#5765](https://github.com/ddev/ddev/pull/5765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. 💪 Opened PR [#5764](https://github.com/ddev/ddev/pull/5764) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ✌️ Released [v1.28.0](https://github.com/rfay/ddev/releases/tag/v1.28.0) in [rfay/ddev](https://github.com/rfay/ddev)<br>
+10. 💪 Opened PR [#5759](https://github.com/ddev/ddev/pull/5759) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
