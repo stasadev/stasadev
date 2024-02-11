@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 🎉 Merged PR [#5765](https://github.com/ddev/ddev/pull/5765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ❗️ Opened issue [#5810](https://github.com/ddev/ddev/issues/5810) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. 💪 Opened PR [#5765](https://github.com/ddev/ddev/pull/5765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ⬆️ Pushed 7 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. 💪 Opened PR [#5764](https://github.com/ddev/ddev/pull/5764) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ✌️ Released [v1.28.0](https://github.com/rfay/ddev/releases/tag/v1.28.0) in [rfay/ddev](https://github.com/rfay/ddev)<br>
-10. 💪 Opened PR [#5759](https://github.com/ddev/ddev/pull/5759) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 10 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 6 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. 💪 Opened PR [#5789](https://github.com/ddev/ddev/pull/5789) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#5686](https://github.com/ddev/ddev/pull/5686#pullrequestreview-1862983840) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
