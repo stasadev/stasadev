@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#5810](https://github.com/ddev/ddev/issues/5810) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 10 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 6 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. 💪 Opened PR [#5789](https://github.com/ddev/ddev/pull/5789) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 👍 Approved [#5686](https://github.com/ddev/ddev/pull/5686#pullrequestreview-1862983840) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💪 Opened PR [#5855](https://github.com/ddev/ddev/pull/5855) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. 💪 Opened PR [#5853](https://github.com/ddev/ddev/pull/5853) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. 👍 Approved [#5850](https://github.com/ddev/ddev/pull/5850#pullrequestreview-1883845658) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. 🔴 Requested changes in [#5850](https://github.com/ddev/ddev/pull/5850#pullrequestreview-1883741292) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. 👍 Approved [#5835](https://github.com/ddev/ddev/pull/5835#pullrequestreview-1882720153) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💪 Opened PR [#5848](https://github.com/ddev/ddev/pull/5848) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
