@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#5890](https://github.com/ddev/ddev/pull/5890#pullrequestreview-1898806143) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 👍 Approved [#5886](https://github.com/ddev/ddev/pull/5886#pullrequestreview-1898763210) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. 💪 Opened PR [#5887](https://github.com/ddev/ddev/pull/5887) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ❗️ Opened issue [#5882](https://github.com/ddev/ddev/issues/5882) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ⬆️ Pushed 11 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [stephanie-ehrling/ddev](https://github.com/stephanie-ehrling/ddev)<br>
+2. ❗️ Opened issue [#5919](https://github.com/ddev/ddev/issues/5919) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+4. ⬆️ Pushed 1 commit(s) to [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. 💪 Opened PR [#163](https://github.com/ddev/ddev.com/pull/163) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+6. ❗️ Opened issue [#5915](https://github.com/ddev/ddev/issues/5915) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. 👍 Approved [#162](https://github.com/ddev/ddev.com/pull/162#pullrequestreview-1909641024) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+9. 🔴 Requested changes in [#162](https://github.com/ddev/ddev.com/pull/162#pullrequestreview-1909593718) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+10. ⬆️ Pushed 1 commit(s) to [tjarrett/ddev](https://github.com/tjarrett/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
