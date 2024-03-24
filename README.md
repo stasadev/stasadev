@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. 💪 Opened PR [#5978](https://github.com/ddev/ddev/pull/5978) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💪 Opened PR [#5976](https://github.com/ddev/ddev/pull/5976) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/compose-go](https://github.com/stasadev/compose-go)<br>
-9. 💪 Opened PR [#599](https://github.com/compose-spec/compose-go/pull/599) in [compose-spec/compose-go](https://github.com/compose-spec/compose-go)<br>
-10. ⬆️ Pushed 12 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
+1. 👍 Approved [#5997](https://github.com/ddev/ddev/pull/5997#pullrequestreview-1955655345) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 🔴 Requested changes in [#5997](https://github.com/ddev/ddev/pull/5997#pullrequestreview-1955538561) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 🔴 Requested changes in [#6002](https://github.com/ddev/ddev/pull/6002#pullrequestreview-1955495151) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 👍 Approved [#5888](https://github.com/ddev/ddev/pull/5888#pullrequestreview-1955458566) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 👍 Approved [#5888](https://github.com/ddev/ddev/pull/5888#pullrequestreview-1955458566) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 👍 Approved [#6007](https://github.com/ddev/ddev/pull/6007#pullrequestreview-1955388119) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. 💪 Opened PR [#6003](https://github.com/ddev/ddev/pull/6003) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
