@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. 👍 Approved [#6077](https://github.com/ddev/ddev/pull/6077#pullrequestreview-1994671132) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 👍 Approved [#6084](https://github.com/ddev/ddev/pull/6084#pullrequestreview-1994635159) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 👍 Approved [#6055](https://github.com/ddev/ddev/pull/6055#pullrequestreview-1994632401) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#6080](https://github.com/ddev/ddev/pull/6080#pullrequestreview-1994631555) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 👍 Approved [#6079](https://github.com/ddev/ddev/pull/6079#pullrequestreview-1994621202) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ⬆️ Pushed 44 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
-8. ⬆️ Pushed 6 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. 👍 Approved [#6075](https://github.com/ddev/ddev/pull/6075#pullrequestreview-1989632855) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. ✔️ Closed issue [#6072](https://github.com/ddev/ddev/issues/6072) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+2. ✌️ Released [1.1.0 Laravel 11](https://github.com/stasadev/laravel-slack-notifier/releases/tag/1.1.0) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+3. ⬆️ Pushed 0 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+5. 🎉 Merged PR [#7](https://github.com/stasadev/laravel-slack-notifier/pull/7) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+7. 💪 Opened PR [#7](https://github.com/stasadev/laravel-slack-notifier/pull/7) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+8. ⬆️ Pushed 9 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+9. ⬆️ Pushed 0 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+10. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
