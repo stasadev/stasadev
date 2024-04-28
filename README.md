@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-2. ✌️ Released [1.1.0 Laravel 11](https://github.com/stasadev/laravel-slack-notifier/releases/tag/1.1.0) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-3. ⬆️ Pushed 0 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-5. 🎉 Merged PR [#7](https://github.com/stasadev/laravel-slack-notifier/pull/7) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-7. 💪 Opened PR [#7](https://github.com/stasadev/laravel-slack-notifier/pull/7) in [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-8. ⬆️ Pushed 9 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-9. ⬆️ Pushed 0 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/laravel-slack-notifier](https://github.com/stasadev/laravel-slack-notifier)<br>
+1. 👍 Approved [#28](https://github.com/ddev/remote-config/pull/28#pullrequestreview-2025776809) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
+2. ⬆️ Pushed 18 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
+5. ⬆️ Pushed 1 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
+6. ⬆️ Pushed 1 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
+8. ⬆️ Pushed 16 commit(s) to [danepowell/ddev](https://github.com/danepowell/ddev)<br>
+9. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. 👍 Approved [#6118](https://github.com/ddev/ddev/pull/6118#pullrequestreview-2023351545) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
