@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6152](https://github.com/ddev/ddev/pull/6152) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 3250 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 12 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. ⬆️ Pushed 1 commit(s) to [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-6. 👍 Approved [#6136](https://github.com/ddev/ddev/pull/6136#pullrequestreview-2038911589) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#6151](https://github.com/ddev/ddev/pull/6151) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 3250 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 2 commit(s) to [temp-pr/ddev-pr-artifacts-comment](https://github.com/temp-pr/ddev-pr-artifacts-comment)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-pr-artifacts-comment](https://github.com/stasadev/ddev-pr-artifacts-comment)<br>
+1. 👍 Approved [#6172](https://github.com/ddev/ddev/pull/6172#pullrequestreview-2050520654) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 👍 Approved [#6171](https://github.com/ddev/ddev/pull/6171#pullrequestreview-2050509222) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 👍 Approved [#6171](https://github.com/ddev/ddev/pull/6171#pullrequestreview-2050505245) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 👍 Approved [#6171](https://github.com/ddev/ddev/pull/6171#pullrequestreview-2050505245) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💪 Opened PR [#6170](https://github.com/ddev/ddev/pull/6170) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 0 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. 💪 Opened PR [#6168](https://github.com/ddev/ddev/pull/6168) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
