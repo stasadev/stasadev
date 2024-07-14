@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-2. ⬆️ Pushed 2 commit(s) to [stasadev/bash-scripts](https://github.com/stasadev/bash-scripts)<br>
-3. 👍 Approved [#3](https://github.com/rfay/ddev-drushonhost/pull/3#pullrequestreview-2161088430) in [rfay/ddev-drushonhost](https://github.com/rfay/ddev-drushonhost)<br>
-4. 👍 Approved [#3](https://github.com/rfay/ddev-drushonhost/pull/3#pullrequestreview-2161088430) in [rfay/ddev-drushonhost](https://github.com/rfay/ddev-drushonhost)<br>
-5. ⬆️ Pushed 1 commit(s) to [nlighteneddesign/ddev](https://github.com/nlighteneddesign/ddev)<br>
-6. 👍 Approved [#6343](https://github.com/ddev/ddev/pull/6343#pullrequestreview-2160880657) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 👍 Approved [#6343](https://github.com/ddev/ddev/pull/6343#pullrequestreview-2160880657) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 39 commit(s) to [nlighteneddesign/ddev](https://github.com/nlighteneddesign/ddev)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 1 commit(s) to [ddev/ddev-varnish](https://github.com/ddev/ddev-varnish)<br>
+1. 👍 Approved [#6375](https://github.com/ddev/ddev/pull/6375#pullrequestreview-2175626507) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 👍 Approved [#6375](https://github.com/ddev/ddev/pull/6375#pullrequestreview-2175626507) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💪 Opened PR [#6395](https://github.com/ddev/ddev/pull/6395) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. ⬆️ Pushed 1 commit(s) to [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
+6. ❗️ Opened issue [#6394](https://github.com/ddev/ddev/issues/6394) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💪 Opened PR [#16](https://github.com/ddev/ddev-phpmyadmin/pull/16) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
+8. ⬆️ Pushed 1 commit(s) to [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
+9. ⬆️ Pushed 1 commit(s) to [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
+10. 🔴 Requested changes in [#6375](https://github.com/ddev/ddev/pull/6375#pullrequestreview-2175356212) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
