@@ -2,9 +2,9 @@
 
 My name is Stas.
 
-- I am a PHP developer since 2018
-- I am experienced in the entire project development life cycle, including coding, software testing, and debugging
-- Recently, I took on the role of DDEV maintainer
+- PHP developer since 2018
+- DDEV maintainer (Golang Developer) since Autumn 2023
+- Experienced in the entire project development life cycle, including coding, software testing, and debugging
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
