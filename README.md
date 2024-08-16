@@ -2,8 +2,8 @@
 
 My name is Stas.
 
-- PHP developer since 2018
-- DDEV maintainer (Golang Developer) since Autumn 2023
+- PHP Developer since 2018
+- DDEV Maintainer (Golang Developer) since Autumn 2023
 - Experienced in the entire project development life cycle, including coding, software testing, and debugging
 
 <details>
