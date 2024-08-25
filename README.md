@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6488](https://github.com/ddev/ddev/pull/6488#pullrequestreview-2240502771) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 🎉 Merged PR [#6485](https://github.com/ddev/ddev/pull/6485) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💪 Opened PR [#6485](https://github.com/ddev/ddev/pull/6485) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💪 Opened PR [#6484](https://github.com/ddev/ddev/pull/6484) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ✔️ Closed issue [#6480](https://github.com/ddev/ddev/issues/6480) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#238](https://github.com/ddev/ddev.com/pull/238#pullrequestreview-2230020110) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-9. 👍 Approved [#238](https://github.com/ddev/ddev.com/pull/238#pullrequestreview-2230020110) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-10. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. ⬆️ Pushed 15 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. 👍 Approved [#6502](https://github.com/ddev/ddev/pull/6502#pullrequestreview-2257025739) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 👍 Approved [#6414](https://github.com/ddev/ddev/pull/6414#pullrequestreview-2257013494) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 🔴 Requested changes in [#6502](https://github.com/ddev/ddev/pull/6502#pullrequestreview-2256988450) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. 💪 Opened PR [#6501](https://github.com/ddev/ddev/pull/6501) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 👍 Approved [#6490](https://github.com/ddev/ddev/pull/6490#pullrequestreview-2256418413) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. ⬆️ Pushed 8 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
