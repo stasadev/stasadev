@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. 💪 Opened PR [#6527](https://github.com/ddev/ddev/pull/6527) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 🎉 Merged PR [#6510](https://github.com/ddev/ddev/pull/6510) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 13 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 6 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. 👍 Approved [#6540](https://github.com/ddev/ddev/pull/6540#pullrequestreview-2303505547) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ⬆️ Pushed 3 commit(s) to [stasadev/ddev-pr-artifacts-comment](https://github.com/stasadev/ddev-pr-artifacts-comment)<br>
+3. ⬆️ Pushed 2 commit(s) to [temp-pr/ddev-pr-artifacts-comment](https://github.com/temp-pr/ddev-pr-artifacts-comment)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-pr-artifacts-comment](https://github.com/stasadev/ddev-pr-artifacts-comment)<br>
+5. ⬆️ Pushed 3 commit(s) to [temp-pr/ddev-pr-artifacts-comment](https://github.com/temp-pr/ddev-pr-artifacts-comment)<br>
+6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-pr-artifacts-comment](https://github.com/stasadev/ddev-pr-artifacts-comment)<br>
+7. ⬆️ Pushed 2 commit(s) to [stasadev/ddev-pr-artifacts-comment](https://github.com/stasadev/ddev-pr-artifacts-comment)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-pr-artifacts-comment](https://github.com/stasadev/ddev-pr-artifacts-comment)<br>
+9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. ⬆️ Pushed 3 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
