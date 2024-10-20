@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6610](https://github.com/ddev/ddev/pull/6610#pullrequestreview-2363385251) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 👍 Approved [#259](https://github.com/ddev/ddev.com/pull/259#pullrequestreview-2363360362) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-3. 🎉 Merged PR [#257](https://github.com/ddev/ddev.com/pull/257) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-4. ⬆️ Pushed 1 commit(s) to [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-5. 💪 Opened PR [#257](https://github.com/ddev/ddev.com/pull/257) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-6. ⬆️ Pushed 8 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. 💪 Opened PR [#6609](https://github.com/ddev/ddev/pull/6609) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. 👍 Approved [#6604](https://github.com/ddev/ddev/pull/6604#pullrequestreview-2360816591) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
+2. 💪 Opened PR [#8](https://github.com/ddev/ddev-opensearch/pull/8) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
+3. 👍 Approved [#7](https://github.com/ddev/ddev-opensearch/pull/7#pullrequestreview-2379505527) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
+4. 🔴 Requested changes in [#7](https://github.com/ddev/ddev-opensearch/pull/7#pullrequestreview-2379490698) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
+5. 👍 Approved [#6631](https://github.com/ddev/ddev/pull/6631#pullrequestreview-2379460598) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 🔴 Requested changes in [#6631](https://github.com/ddev/ddev/pull/6631#pullrequestreview-2379455944) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+8. 🎉 Merged PR [#64](https://github.com/ddev/ddev-addon-template/pull/64) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+9. 👍 Approved [#64](https://github.com/ddev/ddev-addon-template/pull/64#pullrequestreview-2378695112) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+10. ⬆️ Pushed 4 commit(s) to [tyler36/ddev-addon-template](https://github.com/tyler36/ddev-addon-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
