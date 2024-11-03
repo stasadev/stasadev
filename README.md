@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#6652](https://github.com/ddev/ddev/pull/6652#pullrequestreview-2396089492) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 🔴 Requested changes in [#6652](https://github.com/ddev/ddev/pull/6652#pullrequestreview-2396079594) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 👍 Approved [#6645](https://github.com/ddev/ddev/pull/6645#pullrequestreview-2396051635) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 👍 Approved [#6529](https://github.com/ddev/ddev/pull/6529#pullrequestreview-2395999445) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#268](https://github.com/ddev/ddev.com/pull/268#pullrequestreview-2395938464) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. 🔴 Requested changes in [#268](https://github.com/ddev/ddev.com/pull/268#pullrequestreview-2395700595) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-8. ⬆️ Pushed 7 commit(s) to [TravisCarden/ddev](https://github.com/TravisCarden/ddev)<br>
-9. 🔴 Requested changes in [#6649](https://github.com/ddev/ddev/pull/6649#pullrequestreview-2395513489) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 👍 Approved [#6648](https://github.com/ddev/ddev/pull/6648#pullrequestreview-2395378962) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [hanoii/ddev](https://github.com/hanoii/ddev)<br>
+2. ⬆️ Pushed 1 commit(s) to [hanoii/ddev](https://github.com/hanoii/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [hanoii/ddev](https://github.com/hanoii/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+6. ⬆️ Pushed 14 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. 👍 Approved [#6570](https://github.com/ddev/ddev/pull/6570#pullrequestreview-2408940748) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#6570](https://github.com/ddev/ddev/pull/6570#pullrequestreview-2408940748) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
