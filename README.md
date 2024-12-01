@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
+2. ⬆️ Pushed 11 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
 3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-5. 💪 Opened PR [#6767](https://github.com/ddev/ddev/pull/6767) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. 👍 Approved [#6740](https://github.com/ddev/ddev/pull/6740#pullrequestreview-2455390782) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#6740](https://github.com/ddev/ddev/pull/6740#pullrequestreview-2455390782) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 👍 Approved [#6739](https://github.com/ddev/ddev/pull/6739#pullrequestreview-2455385408) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. ⬆️ Pushed 8 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+6. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 🎉 Merged PR [#6786](https://github.com/ddev/ddev/pull/6786) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 🎉 Merged PR [#6790](https://github.com/ddev/ddev/pull/6790) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
