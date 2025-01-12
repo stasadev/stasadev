@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-2. 👍 Approved [#6877](https://github.com/ddev/ddev/pull/6877#pullrequestreview-2529762546) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ✌️ Released [v1.23.31](https://github.com/ddev-test/ddev/releases/tag/v1.23.31) in [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-5. ⬆️ Pushed 3 commit(s) to [ddev-test/ddev](https://github.com/ddev-test/ddev)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. 💪 Opened PR [#6876](https://github.com/ddev/ddev/pull/6876) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-registry](https://github.com/stasadev/ddev-addon-registry)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-registry](https://github.com/stasadev/ddev-addon-registry)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-addon-registry](https://github.com/stasadev/ddev-addon-registry)<br>
+4. 📔 Created new repository [stasadev/ddev-addon-registry](https://github.com/stasadev/ddev-addon-registry)<br>
+5. 👍 Approved [#6888](https://github.com/ddev/ddev/pull/6888#pullrequestreview-2543038454) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 👍 Approved [#6888](https://github.com/ddev/ddev/pull/6888#pullrequestreview-2543038454) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 👍 Approved [#6888](https://github.com/ddev/ddev/pull/6888#pullrequestreview-2543033108) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 🔴 Requested changes in [#6888](https://github.com/ddev/ddev/pull/6888#pullrequestreview-2542947585) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 👍 Approved [#6887](https://github.com/ddev/ddev/pull/6887#pullrequestreview-2542910181) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#33](https://github.com/ddev/remote-config/pull/33#pullrequestreview-2542834973) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
