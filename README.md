@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 5 commit(s) to [atomicptr/ddev](https://github.com/atomicptr/ddev)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-python2](https://github.com/stasadev/ddev-python2)<br>
-3. 🎉 Merged PR [#6](https://github.com/stasadev/ddev-python2/pull/6) in [stasadev/ddev-python2](https://github.com/stasadev/ddev-python2)<br>
-4. 💪 Opened PR [#6](https://github.com/stasadev/ddev-python2/pull/6) in [stasadev/ddev-python2](https://github.com/stasadev/ddev-python2)<br>
-5. ✌️ Released [v1.0.1](https://github.com/stasadev/ddev-mydumper/releases/tag/v1.0.1) in [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-6. ⬆️ Pushed 1 commit(s) to [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-7. 🎉 Merged PR [#2](https://github.com/stasadev/ddev-mydumper/pull/2) in [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-8. ⬆️ Pushed 4 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. 💪 Opened PR [#2](https://github.com/stasadev/ddev-mydumper/pull/2) in [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. ⬆️ Pushed 2 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+2. 👍 Approved [#6985](https://github.com/ddev/ddev/pull/6985#pullrequestreview-2619467604) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+4. ⬆️ Pushed 1 commit(s) to [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+5. ⬆️ Pushed 1 commit(s) to [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+6. 👍 Approved [#6946](https://github.com/ddev/ddev/pull/6946#pullrequestreview-2618562040) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💪 Opened PR [#6989](https://github.com/ddev/ddev/pull/6989) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. ❗️ Opened issue [#7](https://github.com/ddev/addon-registry/issues/7) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+9. ❗️ Opened issue [#6](https://github.com/ddev/addon-registry/issues/6) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+10. ❗️ Opened issue [#5](https://github.com/ddev/addon-registry/issues/5) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
