@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-2. 💪 Opened PR [#32](https://github.com/ddev/ddev-adminer/pull/32) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-3. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-4. ⬆️ Pushed 2 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-5. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-6. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-7. ⬆️ Pushed 1 commit(s) to [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-8. 💪 Opened PR [#70](https://github.com/ddev/ddev-addon-template/pull/70) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. 👍 Approved [#7009](https://github.com/ddev/ddev/pull/7009#pullrequestreview-2630623463) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ⬆️ Pushed 1 commit(s) to [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. ⬆️ Pushed 5 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+7. ✌️ Released [v1.1.0 Use official Adminer](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.0) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+8. 🎉 Merged PR [#33](https://github.com/ddev/ddev-adminer/pull/33) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+9. ⬆️ Pushed 1 commit(s) to [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+10. ✔️ Closed issue [#31](https://github.com/ddev/ddev-adminer/issues/31) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
