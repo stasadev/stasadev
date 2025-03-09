@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-4. ⬆️ Pushed 1 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. ⬆️ Pushed 5 commit(s) to [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-7. ✌️ Released [v1.1.0 Use official Adminer](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.0) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-8. 🎉 Merged PR [#33](https://github.com/ddev/ddev-adminer/pull/33) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-9. ⬆️ Pushed 1 commit(s) to [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-10. ✔️ Closed issue [#31](https://github.com/ddev/ddev-adminer/issues/31) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+1. 👍 Approved [#7050](https://github.com/ddev/ddev/pull/7050#pullrequestreview-2666862724) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 🔴 Requested changes in [#7056](https://github.com/ddev/ddev/pull/7056#pullrequestreview-2666678315) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ⬆️ Pushed 1 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
+4. ⬆️ Pushed 6 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
+5. ⬆️ Pushed 1 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
+6. 👍 Approved [#7057](https://github.com/ddev/ddev/pull/7057#pullrequestreview-2666628977) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+8. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
