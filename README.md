@@ -10,16 +10,16 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#7050](https://github.com/ddev/ddev/pull/7050#pullrequestreview-2666862724) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 🔴 Requested changes in [#7056](https://github.com/ddev/ddev/pull/7056#pullrequestreview-2666678315) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. ⬆️ Pushed 1 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
-4. ⬆️ Pushed 6 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
-5. ⬆️ Pushed 1 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
-6. 👍 Approved [#7057](https://github.com/ddev/ddev/pull/7057#pullrequestreview-2666628977) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-8. ⬆️ Pushed 5 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-9. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
-10. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+1. ❗️ Opened issue [#12047](https://github.com/readthedocs/readthedocs.org/issues/12047) in [readthedocs/readthedocs.org](https://github.com/readthedocs/readthedocs.org)<br>
+2. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+3. 👍 Approved [#7090](https://github.com/ddev/ddev/pull/7090#pullrequestreview-2686477625) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ⬆️ Pushed 1 commit(s) to [stasadev/ddev](https://github.com/stasadev/ddev)<br>
+5. 👍 Approved [#7088](https://github.com/ddev/ddev/pull/7088#pullrequestreview-2686210986) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 👍 Approved [#7071](https://github.com/ddev/ddev/pull/7071#pullrequestreview-2686183401) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 👍 Approved [#7071](https://github.com/ddev/ddev/pull/7071#pullrequestreview-2686183401) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 🔴 Requested changes in [#7075](https://github.com/ddev/ddev/pull/7075#pullrequestreview-2685969966) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ⬆️ Pushed 18 commit(s) to [rfay/ddev](https://github.com/rfay/ddev)<br>
+10. 👍 Approved [#7084](https://github.com/ddev/ddev/pull/7084#pullrequestreview-2685892283) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
