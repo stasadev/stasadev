@@ -2,8 +2,9 @@
 
 My name is Stas.
 
+- [DDEV](https://github.com/ddev/ddev) Maintainer (Golang Developer) since Autumn 2023
+- Join me in the [![DDEV Discord](https://img.shields.io/discord/664580571770388500?logo=discord&logoColor=%23fff&label=DDEV%20Discord&link=https%3A%2F%2Fddev.com%2Fs%2Fdiscord)](https://ddev.com/s/discord)
 - PHP Developer since 2018
-- DDEV Maintainer (Golang Developer) since Autumn 2023
 - Experienced in the entire project development life cycle, including coding, software testing, and debugging
 
 <details>

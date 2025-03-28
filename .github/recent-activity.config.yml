@@ -1,17 +1,17 @@
 settings:
   username: "stasadev"
   commit_msg: "Updated recent activity"
-  max_lines: 10
+  max_lines: 20
   readme_file: "./README.md"
   disabled_events:
-    - "comments"
-    - "fork"
     - "star"
+    - "push"
   url_text: "{REPO}{ID}"
   commit_name: "github-actions[bot]"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   ignored_repos:
     - stasadev/stasadev
+    - stasadev/ddev
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
