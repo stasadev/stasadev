@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#7155](https://github.com/ddev/ddev/issues/7155) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 🎉 Merged PR [#71](https://github.com/ddev/ddev-addon-template/pull/71) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-3. ❗️ Opened issue [#7154](https://github.com/ddev/ddev/issues/7154) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💪 Opened PR [#71](https://github.com/ddev/ddev-addon-template/pull/71) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-5. ✌️ Released [v1.0.3](https://github.com/stasadev/ddev-mydumper/releases/tag/v1.0.3) in [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-6. 🎉 Merged PR [#5](https://github.com/stasadev/ddev-mydumper/pull/5) in [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-7. 💪 Opened PR [#5](https://github.com/stasadev/ddev-mydumper/pull/5) in [stasadev/ddev-mydumper](https://github.com/stasadev/ddev-mydumper)<br>
-8. 💬 Commented on [#7153](https://github.com/ddev/ddev/issues/7153#issuecomment-2757755193) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#7153](https://github.com/ddev/ddev/issues/7153#issuecomment-2757695128) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💪 Opened PR [#7152](https://github.com/ddev/ddev/pull/7152) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💪 Opened PR [#7151](https://github.com/ddev/ddev/pull/7151) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7150](https://github.com/ddev/ddev/pull/7150#issuecomment-2755195259) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💪 Opened PR [#7150](https://github.com/ddev/ddev/pull/7150) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 👍 Approved [#7147](https://github.com/ddev/ddev/pull/7147#pullrequestreview-2717496317) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#7148](https://github.com/ddev/ddev/pull/7148#issuecomment-2754581115) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#7148](https://github.com/ddev/ddev/pull/7148#issuecomment-2754570701) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#505](https://github.com/perftools/xhgui/issues/505#issuecomment-2752032429) in [perftools/xhgui](https://github.com/perftools/xhgui)<br>
-18. 💬 Commented on [#7142](https://github.com/ddev/ddev/pull/7142#discussion_r2012582746) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💪 Opened PR [#54](https://github.com/ddev/ddev-xhgui/pull/54) in [ddev/ddev-xhgui](https://github.com/ddev/ddev-xhgui)<br>
-20. 💪 Opened PR [#7145](https://github.com/ddev/ddev/pull/7145) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#55](https://github.com/ddev/ddev-xhgui/issues/55#issuecomment-2762628093) in [ddev/ddev-xhgui](https://github.com/ddev/ddev-xhgui)<br>
+2. ✔️ Closed issue [#55](https://github.com/ddev/ddev-xhgui/issues/55) in [ddev/ddev-xhgui](https://github.com/ddev/ddev-xhgui)<br>
+3. ✌️ Released [2.4](https://github.com/ddev/ddev-xhgui/releases/tag/2.4) in [ddev/ddev-xhgui](https://github.com/ddev/ddev-xhgui)<br>
+4. 🎉 Merged PR [#56](https://github.com/ddev/ddev-xhgui/pull/56) in [ddev/ddev-xhgui](https://github.com/ddev/ddev-xhgui)<br>
+5. 💪 Opened PR [#56](https://github.com/ddev/ddev-xhgui/pull/56) in [ddev/ddev-xhgui](https://github.com/ddev/ddev-xhgui)<br>
+6. 💬 Commented on [#7161](https://github.com/ddev/ddev/pull/7161#discussion_r2019117077) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#7161](https://github.com/ddev/ddev/pull/7161#discussion_r2019115196) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#7152](https://github.com/ddev/ddev/pull/7152#discussion_r2019072678) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#7161](https://github.com/ddev/ddev/pull/7161#discussion_r2019063819) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7152](https://github.com/ddev/ddev/pull/7152#discussion_r2019051079) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#7152](https://github.com/ddev/ddev/pull/7152#discussion_r2019048623) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#7161](https://github.com/ddev/ddev/pull/7161#issuecomment-2761909150) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#7161](https://github.com/ddev/ddev/pull/7161#issuecomment-2761793728) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💪 Opened PR [#7162](https://github.com/ddev/ddev/pull/7162) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💪 Opened PR [#7161](https://github.com/ddev/ddev/pull/7161) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💪 Opened PR [#520](https://github.com/perftools/xhgui/pull/520) in [perftools/xhgui](https://github.com/perftools/xhgui)<br>
+17. 🔱 Forked [stasadev/xhgui](https://github.com/stasadev/xhgui) from [perftools/xhgui](https://github.com/perftools/xhgui)<br>
+18. 💬 Commented on [#505](https://github.com/perftools/xhgui/issues/505#issuecomment-2761527673) in [perftools/xhgui](https://github.com/perftools/xhgui)<br>
+19. 💬 Commented on [#7133](https://github.com/ddev/ddev/pull/7133#issuecomment-2761511278) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#7053](https://github.com/ddev/ddev/pull/7053#issuecomment-2761454042) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
