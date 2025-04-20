@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#7199](https://github.com/ddev/ddev/pull/7199#pullrequestreview-2762158746) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 👍 Approved [#7077](https://github.com/ddev/ddev/pull/7077#pullrequestreview-2761092475) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#7166](https://github.com/ddev/ddev/pull/7166#issuecomment-2797604799) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 👍 Approved [#7200](https://github.com/ddev/ddev/pull/7200#pullrequestreview-2761039944) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#7077](https://github.com/ddev/ddev/pull/7077#discussion_r2039919247) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 👍 Approved [#7077](https://github.com/ddev/ddev/pull/7077#pullrequestreview-2760950029) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 👍 Approved [#7077](https://github.com/ddev/ddev/pull/7077#pullrequestreview-2760950029) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#7199](https://github.com/ddev/ddev/pull/7199#discussion_r2039825076) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#7199](https://github.com/ddev/ddev/pull/7199#discussion_r2039824810) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 🔴 Requested changes in [#7199](https://github.com/ddev/ddev/pull/7199#pullrequestreview-2760793526) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💪 Opened PR [#24](https://github.com/ddev/ddev-phpmyadmin/pull/24) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
-12. ❗️ Opened issue [#7201](https://github.com/ddev/ddev/issues/7201) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💪 Opened PR [#12](https://github.com/ddev/ddev-opensearch/pull/12) in [ddev/ddev-opensearch](https://github.com/ddev/ddev-opensearch)<br>
-14. ✌️ Released [v1.1.8](https://github.com/ddev/ddev-memcached/releases/tag/v1.1.8) in [ddev/ddev-memcached](https://github.com/ddev/ddev-memcached)<br>
-15. 🎉 Merged PR [#16](https://github.com/ddev/ddev-memcached/pull/16) in [ddev/ddev-memcached](https://github.com/ddev/ddev-memcached)<br>
-16. 💪 Opened PR [#16](https://github.com/ddev/ddev-memcached/pull/16) in [ddev/ddev-memcached](https://github.com/ddev/ddev-memcached)<br>
-17. 🎉 Merged PR [#15](https://github.com/ddev/ddev-memcached/pull/15) in [ddev/ddev-memcached](https://github.com/ddev/ddev-memcached)<br>
-18. 💪 Opened PR [#15](https://github.com/ddev/ddev-memcached/pull/15) in [ddev/ddev-memcached](https://github.com/ddev/ddev-memcached)<br>
-19. ✌️ Released [v1.4.0: PHP 8.4 support](https://github.com/ddev/ddev-ioncube/releases/tag/v1.4.0) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
-20. 🎉 Merged PR [#65](https://github.com/ddev/ddev-ioncube/pull/65) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
+1. 💪 Opened PR [#61](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/61) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
+2. 💬 Commented on [#60](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/60#issuecomment-2815639385) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
+3. 💪 Opened PR [#60](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/60) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
+4. ✌️ Released [v0.1.1 Minor updates](https://github.com/ddev/ddev-ibexa-cloud/releases/tag/v0.1.1) in [ddev/ddev-ibexa-cloud](https://github.com/ddev/ddev-ibexa-cloud)<br>
+5. 🎉 Merged PR [#12](https://github.com/ddev/ddev-ibexa-cloud/pull/12) in [ddev/ddev-ibexa-cloud](https://github.com/ddev/ddev-ibexa-cloud)<br>
+6. 🎉 Merged PR [#11](https://github.com/ddev/ddev-ibexa-cloud/pull/11) in [ddev/ddev-ibexa-cloud](https://github.com/ddev/ddev-ibexa-cloud)<br>
+7. 💪 Opened PR [#12](https://github.com/ddev/ddev-ibexa-cloud/pull/12) in [ddev/ddev-ibexa-cloud](https://github.com/ddev/ddev-ibexa-cloud)<br>
+8. 💪 Opened PR [#11](https://github.com/ddev/ddev-ibexa-cloud/pull/11) in [ddev/ddev-ibexa-cloud](https://github.com/ddev/ddev-ibexa-cloud)<br>
+9. 🎉 Merged PR [#135](https://github.com/ddev/ddev-platformsh/pull/135) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+10. 💪 Opened PR [#135](https://github.com/ddev/ddev-platformsh/pull/135) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+11. ✌️ Released [v0.8.1: Minor updates](https://github.com/ddev/ddev-platformsh/releases/tag/v0.8.1) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+12. 🎉 Merged PR [#134](https://github.com/ddev/ddev-platformsh/pull/134) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+13. 💪 Opened PR [#134](https://github.com/ddev/ddev-platformsh/pull/134) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+14. 🎉 Merged PR [#133](https://github.com/ddev/ddev-platformsh/pull/133) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+15. 💪 Opened PR [#133](https://github.com/ddev/ddev-platformsh/pull/133) in [ddev/ddev-platformsh](https://github.com/ddev/ddev-platformsh)<br>
+16. 💬 Commented on [#23](https://github.com/ddev/ddev-mongo/pull/23#issuecomment-2815271506) in [ddev/ddev-mongo](https://github.com/ddev/ddev-mongo)<br>
+17. 🎉 Merged PR [#40](https://github.com/ddev/ddev-sqlsrv/pull/40) in [ddev/ddev-sqlsrv](https://github.com/ddev/ddev-sqlsrv)<br>
+18. 💪 Opened PR [#361](https://github.com/ddev/ddev.com/pull/361) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+19. ✔️ Closed issue [#6191](https://github.com/ddev/ddev/issues/6191) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 🎉 Merged PR [#7216](https://github.com/ddev/ddev/pull/7216) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
