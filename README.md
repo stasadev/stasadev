@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#43](https://github.com/ddev/ddev-redis/issues/43#issuecomment-2832212390) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-2. 💬 Commented on [#28](https://github.com/ddev/ddev-redis/issues/28#issuecomment-2830636343) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-3. 💬 Commented on [#32](https://github.com/ddev/ddev-redis/issues/32#issuecomment-2830636108) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-4. 💪 Opened PR [#42](https://github.com/ddev/ddev-redis/pull/42) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-5. ❗️ Opened issue [#36](https://github.com/ddev/ddev-redis-7/issues/36) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
-6. ✌️ Released [v2.0.0: Redis 7, optional optimized config](https://github.com/ddev/ddev-redis/releases/tag/v2.0.0) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-7. 🎉 Merged PR [#34](https://github.com/ddev/ddev-redis/pull/34) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-8. 🎉 Merged PR [#41](https://github.com/ddev/ddev-redis/pull/41) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-9. 💪 Opened PR [#41](https://github.com/ddev/ddev-redis/pull/41) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-10. 🎉 Merged PR [#40](https://github.com/ddev/ddev-redis/pull/40) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-11. 💬 Commented on [#22](https://github.com/ddev/ddev-rabbitmq/pull/22#discussion_r2059068838) in [ddev/ddev-rabbitmq](https://github.com/ddev/ddev-rabbitmq)<br>
-12. 💬 Commented on [#22](https://github.com/ddev/ddev-rabbitmq/pull/22#discussion_r2059075541) in [ddev/ddev-rabbitmq](https://github.com/ddev/ddev-rabbitmq)<br>
-13. 🔴 Requested changes in [#22](https://github.com/ddev/ddev-rabbitmq/pull/22#pullrequestreview-2792230799) in [ddev/ddev-rabbitmq](https://github.com/ddev/ddev-rabbitmq)<br>
-14. 🎉 Merged PR [#19](https://github.com/ddev/ddev-typo3-solr/pull/19) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-15. 💪 Opened PR [#19](https://github.com/ddev/ddev-typo3-solr/pull/19) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-16. ✌️ Released [1.1.1](https://github.com/ddev/ddev-typo3-solr/releases/tag/1.1.1) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-17. 🎉 Merged PR [#18](https://github.com/ddev/ddev-typo3-solr/pull/18) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-18. 💪 Opened PR [#18](https://github.com/ddev/ddev-typo3-solr/pull/18) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-19. 🎉 Merged PR [#17](https://github.com/ddev/ddev-typo3-solr/pull/17) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-20. 💪 Opened PR [#17](https://github.com/ddev/ddev-typo3-solr/pull/17) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
+1. 💬 Commented on [#7256](https://github.com/ddev/ddev/issues/7256#issuecomment-2847066813) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7247](https://github.com/ddev/ddev/pull/7247#issuecomment-2847051654) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#39](https://github.com/ddev/ddev-varnish/issues/39#issuecomment-2847016814) in [ddev/ddev-varnish](https://github.com/ddev/ddev-varnish)<br>
+4. 💪 Opened PR [#367](https://github.com/ddev/ddev.com/pull/367) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. 💬 Commented on [#41](https://github.com/ddev/ddev-adminer/issues/41#issuecomment-2846568666) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+6. 💬 Commented on [#83](https://github.com/ddev/ddev-intellij-plugin/issues/83#issuecomment-2846562917) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+7. 💬 Commented on [#83](https://github.com/ddev/ddev-intellij-plugin/issues/83#issuecomment-2846557123) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+8. ✌️ Released [v0.0.1](https://github.com/stasforks/ddev-test-addon/releases/tag/v0.0.1) in [stasforks/ddev-test-addon](https://github.com/stasforks/ddev-test-addon)<br>
+9. ✌️ Released [v0.0.1](https://github.com/stasadev/ddev-foo-bar/releases/tag/v0.0.1) in [stasadev/ddev-foo-bar](https://github.com/stasadev/ddev-foo-bar)<br>
+10. ✌️ Released [v1.1.4: Fix plugins](https://github.com/ddev/ddev-adminer/releases/tag/v1.1.4) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+11. ✔️ Closed issue [#41](https://github.com/ddev/ddev-adminer/issues/41) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+12. 🎉 Merged PR [#42](https://github.com/ddev/ddev-adminer/pull/42) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+13. 💬 Commented on [#7247](https://github.com/ddev/ddev/pull/7247#issuecomment-2845223661) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 👍 Approved [#7244](https://github.com/ddev/ddev/pull/7244#pullrequestreview-2810134244) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💪 Opened PR [#42](https://github.com/ddev/ddev-adminer/pull/42) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
+16. 👍 Approved [#7245](https://github.com/ddev/ddev/pull/7245#pullrequestreview-2809977900) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💪 Opened PR [#7247](https://github.com/ddev/ddev/pull/7247) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#361](https://github.com/ddev/ddev.com/pull/361#issuecomment-2844254669) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+19. 💬 Commented on [#7243](https://github.com/ddev/ddev/issues/7243#issuecomment-2843082964) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#7232](https://github.com/ddev/ddev/pull/7232#discussion_r2067169127) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
