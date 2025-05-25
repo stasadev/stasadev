@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7307](https://github.com/ddev/ddev/issues/7307#issuecomment-2888401561) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7305](https://github.com/ddev/ddev/issues/7305#issuecomment-2887408007) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💪 Opened PR [#7306](https://github.com/ddev/ddev/pull/7306) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7305](https://github.com/ddev/ddev/issues/7305#issuecomment-2887292310) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#7286](https://github.com/ddev/ddev/pull/7286#pullrequestreview-2847211668) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7299](https://github.com/ddev/ddev/issues/7299#issuecomment-2887221293) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#7301](https://github.com/ddev/ddev/pull/7301#issuecomment-2887206673) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#7301](https://github.com/ddev/ddev/pull/7301#issuecomment-2887199500) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#7301](https://github.com/ddev/ddev/pull/7301#issuecomment-2886581543) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7299](https://github.com/ddev/ddev/issues/7299#issuecomment-2886538329) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7301](https://github.com/ddev/ddev/pull/7301#discussion_r2092726314) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7301](https://github.com/ddev/ddev/pull/7301#issuecomment-2886220998) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#7299](https://github.com/ddev/ddev/issues/7299#issuecomment-2886207262) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7286](https://github.com/ddev/ddev/pull/7286#discussion_r2091947639) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 🔴 Requested changes in [#7286](https://github.com/ddev/ddev/pull/7286#pullrequestreview-2844943292) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#7286](https://github.com/ddev/ddev/pull/7286#discussion_r2091940343) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#7299](https://github.com/ddev/ddev/issues/7299#issuecomment-2885012241) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💪 Opened PR [#7301](https://github.com/ddev/ddev/pull/7301) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 👍 Approved [#7300](https://github.com/ddev/ddev/pull/7300#pullrequestreview-2844770611) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#7235](https://github.com/ddev/ddev/issues/7235#issuecomment-2884821798) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441#issuecomment-2905909110) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+2. 💬 Commented on [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441#issuecomment-2905887547) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+3. 💬 Commented on [#263](https://github.com/ddev/ddev-intellij-plugin/issues/263#issuecomment-2904777791) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+4. ✔️ Closed issue [#263](https://github.com/ddev/ddev-intellij-plugin/issues/263) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+5. 💬 Commented on [#414](https://github.com/ddev/ddev-intellij-plugin/issues/414#issuecomment-2904698758) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+6. ❗️ Opened issue [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+7. 💬 Commented on [#414](https://github.com/ddev/ddev-intellij-plugin/issues/414#issuecomment-2904343939) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+8. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2904089512) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. ✔️ Closed issue [#7328](https://github.com/ddev/ddev/issues/7328) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903990865) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903945666) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#83](https://github.com/ddev/ddev-browsersync/pull/83#issuecomment-2903811495) in [ddev/ddev-browsersync](https://github.com/ddev/ddev-browsersync)<br>
+13. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903794201) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903781778) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903595495) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💪 Opened PR [#7327](https://github.com/ddev/ddev/pull/7327) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 👍 Approved [#7326](https://github.com/ddev/ddev/pull/7326#pullrequestreview-2861826368) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7326](https://github.com/ddev/ddev/pull/7326#issuecomment-2901703367) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. ✔️ Closed issue [#7320](https://github.com/ddev/ddev/issues/7320) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 🎉 Merged PR [#7324](https://github.com/ddev/ddev/pull/7324) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
