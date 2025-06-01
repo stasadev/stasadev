@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441#issuecomment-2905909110) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-2. 💬 Commented on [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441#issuecomment-2905887547) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-3. 💬 Commented on [#263](https://github.com/ddev/ddev-intellij-plugin/issues/263#issuecomment-2904777791) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-4. ✔️ Closed issue [#263](https://github.com/ddev/ddev-intellij-plugin/issues/263) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-5. 💬 Commented on [#414](https://github.com/ddev/ddev-intellij-plugin/issues/414#issuecomment-2904698758) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-6. ❗️ Opened issue [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-7. 💬 Commented on [#414](https://github.com/ddev/ddev-intellij-plugin/issues/414#issuecomment-2904343939) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-8. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2904089512) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. ✔️ Closed issue [#7328](https://github.com/ddev/ddev/issues/7328) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903990865) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903945666) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#83](https://github.com/ddev/ddev-browsersync/pull/83#issuecomment-2903811495) in [ddev/ddev-browsersync](https://github.com/ddev/ddev-browsersync)<br>
-13. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903794201) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903781778) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#7328](https://github.com/ddev/ddev/issues/7328#issuecomment-2903595495) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💪 Opened PR [#7327](https://github.com/ddev/ddev/pull/7327) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 👍 Approved [#7326](https://github.com/ddev/ddev/pull/7326#pullrequestreview-2861826368) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#7326](https://github.com/ddev/ddev/pull/7326#issuecomment-2901703367) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. ✔️ Closed issue [#7320](https://github.com/ddev/ddev/issues/7320) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 🎉 Merged PR [#7324](https://github.com/ddev/ddev/pull/7324) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#7346](https://github.com/ddev/ddev/issues/7346#issuecomment-2923949570) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#48](https://github.com/ddev/ddev-redis/issues/48#issuecomment-2923378035) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+3. ✌️ Released [v2.7.2: Archive add-on](https://github.com/ddev/ddev-redis-7/releases/tag/v2.7.2) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
+4. ✔️ Closed issue [#36](https://github.com/ddev/ddev-redis-7/issues/36) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
+5. 🎉 Merged PR [#37](https://github.com/ddev/ddev-redis-7/pull/37) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
+6. 💪 Opened PR [#37](https://github.com/ddev/ddev-redis-7/pull/37) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
+7. ✌️ Released [v2.1.0: Swappable Backends](https://github.com/ddev/ddev-redis/releases/tag/v2.1.0) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+8. 💬 Commented on [#33](https://github.com/ddev/ddev-redis/issues/33#issuecomment-2923074353) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+9. ✔️ Closed issue [#33](https://github.com/ddev/ddev-redis/issues/33) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+10. 💬 Commented on [#20](https://github.com/ddev/ddev-redis/issues/20#issuecomment-2923068055) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+11. ✔️ Closed issue [#20](https://github.com/ddev/ddev-redis/issues/20) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+12. ✔️ Closed issue [#48](https://github.com/ddev/ddev-redis/issues/48) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+13. 🎉 Merged PR [#49](https://github.com/ddev/ddev-redis/pull/49) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+14. 💪 Opened PR [#49](https://github.com/ddev/ddev-redis/pull/49) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+15. ✔️ Closed issue [#28](https://github.com/ddev/ddev-redis/issues/28) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+16. ✔️ Closed issue [#32](https://github.com/ddev/ddev-redis/issues/32) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+17. 🎉 Merged PR [#42](https://github.com/ddev/ddev-redis/pull/42) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
+18. ✌️ Released [v1.4.2](https://github.com/ddev/ddev-ioncube/releases/tag/v1.4.2) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
+19. ✔️ Closed issue [#69](https://github.com/ddev/ddev-ioncube/issues/69) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
+20. 🎉 Merged PR [#70](https://github.com/ddev/ddev-ioncube/pull/70) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
