@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7346](https://github.com/ddev/ddev/issues/7346#issuecomment-2923949570) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#48](https://github.com/ddev/ddev-redis/issues/48#issuecomment-2923378035) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-3. ✌️ Released [v2.7.2: Archive add-on](https://github.com/ddev/ddev-redis-7/releases/tag/v2.7.2) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
-4. ✔️ Closed issue [#36](https://github.com/ddev/ddev-redis-7/issues/36) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
-5. 🎉 Merged PR [#37](https://github.com/ddev/ddev-redis-7/pull/37) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
-6. 💪 Opened PR [#37](https://github.com/ddev/ddev-redis-7/pull/37) in [ddev/ddev-redis-7](https://github.com/ddev/ddev-redis-7)<br>
-7. ✌️ Released [v2.1.0: Swappable Backends](https://github.com/ddev/ddev-redis/releases/tag/v2.1.0) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-8. 💬 Commented on [#33](https://github.com/ddev/ddev-redis/issues/33#issuecomment-2923074353) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-9. ✔️ Closed issue [#33](https://github.com/ddev/ddev-redis/issues/33) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-10. 💬 Commented on [#20](https://github.com/ddev/ddev-redis/issues/20#issuecomment-2923068055) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-11. ✔️ Closed issue [#20](https://github.com/ddev/ddev-redis/issues/20) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-12. ✔️ Closed issue [#48](https://github.com/ddev/ddev-redis/issues/48) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-13. 🎉 Merged PR [#49](https://github.com/ddev/ddev-redis/pull/49) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-14. 💪 Opened PR [#49](https://github.com/ddev/ddev-redis/pull/49) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-15. ✔️ Closed issue [#28](https://github.com/ddev/ddev-redis/issues/28) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-16. ✔️ Closed issue [#32](https://github.com/ddev/ddev-redis/issues/32) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-17. 🎉 Merged PR [#42](https://github.com/ddev/ddev-redis/pull/42) in [ddev/ddev-redis](https://github.com/ddev/ddev-redis)<br>
-18. ✌️ Released [v1.4.2](https://github.com/ddev/ddev-ioncube/releases/tag/v1.4.2) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
-19. ✔️ Closed issue [#69](https://github.com/ddev/ddev-ioncube/issues/69) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
-20. 🎉 Merged PR [#70](https://github.com/ddev/ddev-ioncube/pull/70) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
+1. 💪 Opened PR [#7356](https://github.com/ddev/ddev/pull/7356) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💪 Opened PR [#7355](https://github.com/ddev/ddev/pull/7355) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#7308](https://github.com/ddev/ddev/issues/7308#issuecomment-2948691632) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ✔️ Closed issue [#7308](https://github.com/ddev/ddev/issues/7308) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#7330](https://github.com/ddev/ddev/issues/7330#issuecomment-2948686924) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ✔️ Closed issue [#7330](https://github.com/ddev/ddev/issues/7330) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#7337](https://github.com/ddev/ddev/issues/7337#issuecomment-2948684415) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. ✔️ Closed issue [#7337](https://github.com/ddev/ddev/issues/7337) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#7346](https://github.com/ddev/ddev/issues/7346#issuecomment-2948677104) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7354](https://github.com/ddev/ddev/issues/7354#issuecomment-2948652086) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. ✔️ Closed issue [#7354](https://github.com/ddev/ddev/issues/7354) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#7353](https://github.com/ddev/ddev/pull/7353#discussion_r2131855378) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 👍 Approved [#7353](https://github.com/ddev/ddev/pull/7353#pullrequestreview-2904359455) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 👍 Approved [#7353](https://github.com/ddev/ddev/pull/7353#pullrequestreview-2904359455) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#7354](https://github.com/ddev/ddev/issues/7354#issuecomment-2948427309) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#7351](https://github.com/ddev/ddev/issues/7351#issuecomment-2945272230) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. ✔️ Closed issue [#7351](https://github.com/ddev/ddev/issues/7351) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7350](https://github.com/ddev/ddev/issues/7350#issuecomment-2944870146) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7296](https://github.com/ddev/ddev/issues/7296#issuecomment-2944729646) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#6983](https://github.com/ddev/ddev/pull/6983#issuecomment-2940103599) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
