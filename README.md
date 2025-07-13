@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2185961110) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2186077613) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2186077048) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2186150003) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 🔴 Requested changes in [#7404](https://github.com/ddev/ddev/pull/7404#pullrequestreview-2988129283) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7352](https://github.com/ddev/ddev/issues/7352#issuecomment-3036417321) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#65](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/65#issuecomment-3036227231) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-8. 💬 Commented on [#42](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/42#issuecomment-3036175242) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-9. 💬 Commented on [#49](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/49#issuecomment-3036164646) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-10. 💬 Commented on [#58](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/58#issuecomment-3036147984) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-11. 💬 Commented on [#65](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/65#issuecomment-3036125441) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-12. 🎉 Merged PR [#50](https://github.com/ddev/github-action-add-on-test/pull/50) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-13. 🎉 Merged PR [#80](https://github.com/ddev/ddev-addon-template/pull/80) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-14. 👍 Approved [#67](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/67#pullrequestreview-2986868178) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-15. 💬 Commented on [#50](https://github.com/ddev/github-action-add-on-test/pull/50#discussion_r2185151505) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-16. 💬 Commented on [#50](https://github.com/ddev/github-action-add-on-test/pull/50#discussion_r2185142840) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-17. 💬 Commented on [#79](https://github.com/ddev/ddev-addon-template/pull/79#issuecomment-3035779046) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-18. 💪 Opened PR [#80](https://github.com/ddev/ddev-addon-template/pull/80) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-19. 💬 Commented on [#67](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/67#issuecomment-3035717831) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
-20. 💬 Commented on [#67](https://github.com/ddev/ddev-selenium-standalone-chrome/pull/67#issuecomment-3035221962) in [ddev/ddev-selenium-standalone-chrome](https://github.com/ddev/ddev-selenium-standalone-chrome)<br>
+1. 👍 Approved [#7404](https://github.com/ddev/ddev/pull/7404#pullrequestreview-3012097581) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2201934575) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 👍 Approved [#7404](https://github.com/ddev/ddev/pull/7404#pullrequestreview-3012097581) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#7448](https://github.com/ddev/ddev/pull/7448#issuecomment-3063906364) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💪 Opened PR [#7448](https://github.com/ddev/ddev/pull/7448) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#7447](https://github.com/ddev/ddev/issues/7447#issuecomment-3063717155) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💪 Opened PR [#7446](https://github.com/ddev/ddev/pull/7446) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#7361](https://github.com/ddev/ddev/issues/7361#issuecomment-3062376567) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💪 Opened PR [#7445](https://github.com/ddev/ddev/pull/7445) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2200404994) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2200392022) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#3518](https://github.com/ddev/ddev/issues/3518#issuecomment-3059262362) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#7443](https://github.com/ddev/ddev/pull/7443#issuecomment-3059225455) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#7443](https://github.com/ddev/ddev/pull/7443#issuecomment-3059219976) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 👍 Approved [#7443](https://github.com/ddev/ddev/pull/7443#pullrequestreview-3007499849) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2198783682) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2198793949) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2198771651) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7404](https://github.com/ddev/ddev/pull/7404#discussion_r2198800281) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 👍 Approved [#7404](https://github.com/ddev/ddev/pull/7404#pullrequestreview-3007424658) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
