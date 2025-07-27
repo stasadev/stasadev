@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#7463](https://github.com/ddev/ddev/pull/7463) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 👍 Approved [#7461](https://github.com/ddev/ddev/pull/7461#pullrequestreview-3034228239) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#7460](https://github.com/ddev/ddev/issues/7460#issuecomment-3090034114) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#7462](https://github.com/ddev/ddev/issues/7462#issuecomment-3089937118) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#11](https://github.com/ddev/vscode-ddev-manager/issues/11#issuecomment-3089806606) in [ddev/vscode-ddev-manager](https://github.com/ddev/vscode-ddev-manager)<br>
-6. ❗️ Opened issue [#2326](https://github.com/oerdnj/deb.sury.org/issues/2326) in [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org)<br>
-7. 💬 Commented on [#7458](https://github.com/ddev/ddev/pull/7458#discussion_r2213890864) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#7458](https://github.com/ddev/ddev/pull/7458#pullrequestreview-3030099041) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#7458](https://github.com/ddev/ddev/pull/7458#issuecomment-3084669630) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7458](https://github.com/ddev/ddev/pull/7458#discussion_r2213751049) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 👍 Approved [#7458](https://github.com/ddev/ddev/pull/7458#pullrequestreview-3030099041) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7457](https://github.com/ddev/ddev/issues/7457#issuecomment-3084563683) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#31](https://github.com/ddev/ddev-elasticsearch/issues/31#issuecomment-3084467847) in [ddev/ddev-elasticsearch](https://github.com/ddev/ddev-elasticsearch)<br>
-14. 💬 Commented on [#392](https://github.com/ddev/ddev.com/pull/392#discussion_r2213625243) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-15. 💬 Commented on [#392](https://github.com/ddev/ddev.com/pull/392#discussion_r2213616693) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-16. 💬 Commented on [#392](https://github.com/ddev/ddev.com/pull/392#discussion_r2213614307) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-17. 💬 Commented on [#392](https://github.com/ddev/ddev.com/pull/392#discussion_r2213612196) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-18. 👍 Approved [#392](https://github.com/ddev/ddev.com/pull/392#pullrequestreview-3029945420) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-19. 👍 Approved [#392](https://github.com/ddev/ddev.com/pull/392#pullrequestreview-3029945420) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-20. 💬 Commented on [#2316](https://github.com/oerdnj/deb.sury.org/issues/2316#issuecomment-3084374950) in [oerdnj/deb.sury.org](https://github.com/oerdnj/deb.sury.org)<br>
+1. ✌️ Released [v0.3.0: Worker mode](https://github.com/stasadev/ddev-frankenphp/releases/tag/v0.3.0) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+2. 🎉 Merged PR [#21](https://github.com/stasadev/ddev-frankenphp/pull/21) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+3. 💪 Opened PR [#21](https://github.com/stasadev/ddev-frankenphp/pull/21) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+4. ✔️ Closed issue [#18](https://github.com/stasadev/ddev-frankenphp/issues/18) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+5. 🎉 Merged PR [#20](https://github.com/stasadev/ddev-frankenphp/pull/20) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+6. 💪 Opened PR [#20](https://github.com/stasadev/ddev-frankenphp/pull/20) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+7. 💬 Commented on [#408](https://github.com/ddev/ddev.com/pull/408#discussion_r2230962330) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+8. 🎉 Merged PR [#19](https://github.com/stasadev/ddev-frankenphp/pull/19) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+9. 💪 Opened PR [#19](https://github.com/stasadev/ddev-frankenphp/pull/19) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+10. 💬 Commented on [#18](https://github.com/stasadev/ddev-frankenphp/issues/18#issuecomment-3117362065) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+11. 💬 Commented on [#408](https://github.com/ddev/ddev.com/pull/408#discussion_r2230748162) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+12. 💬 Commented on [#408](https://github.com/ddev/ddev.com/pull/408#discussion_r2230743388) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+13. 👍 Approved [#408](https://github.com/ddev/ddev.com/pull/408#pullrequestreview-3054907518) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+14. 👍 Approved [#408](https://github.com/ddev/ddev.com/pull/408#pullrequestreview-3054907518) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+15. 💬 Commented on [#408](https://github.com/ddev/ddev.com/pull/408#discussion_r2230729008) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+16. 💬 Commented on [#7484](https://github.com/ddev/ddev/issues/7484#issuecomment-3116831626) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#1](https://github.com/froboy/ddev-tsh/pull/1#discussion_r2230403454) in [froboy/ddev-tsh](https://github.com/froboy/ddev-tsh)<br>
+18. 💬 Commented on [#1](https://github.com/froboy/ddev-tsh/pull/1#discussion_r2230420206) in [froboy/ddev-tsh](https://github.com/froboy/ddev-tsh)<br>
+19. 💬 Commented on [#1](https://github.com/froboy/ddev-tsh/pull/1#discussion_r2230410606) in [froboy/ddev-tsh](https://github.com/froboy/ddev-tsh)<br>
+20. 💬 Commented on [#7483](https://github.com/ddev/ddev/pull/7483#issuecomment-3114388187) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
