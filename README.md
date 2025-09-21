@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#496](https://github.com/ddev/ddev-intellij-plugin/issues/496#issuecomment-3286516145) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
-2. ❗️ Opened issue [#29](https://github.com/stasadev/ddev-frankenphp/issues/29) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-3. 💬 Commented on [#27](https://github.com/stasadev/ddev-frankenphp/pull/27#discussion_r2344991056) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-4. 👍 Approved [#7617](https://github.com/ddev/ddev/pull/7617#pullrequestreview-3218001768) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#7599](https://github.com/ddev/ddev/pull/7599#pullrequestreview-3217949543) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#7598](https://github.com/ddev/ddev/pull/7598#discussion_r2344805728) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#7598](https://github.com/ddev/ddev/pull/7598#discussion_r2344817361) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#7613](https://github.com/ddev/ddev/pull/7613#pullrequestreview-3217642336) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 👍 Approved [#7591](https://github.com/ddev/ddev/pull/7591#pullrequestreview-3216563571) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#7615](https://github.com/ddev/ddev/issues/7615#issuecomment-3285152530) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#7616](https://github.com/ddev/ddev/issues/7616#issuecomment-3285127299) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#7616](https://github.com/ddev/ddev/issues/7616#issuecomment-3285103729) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. ✌️ Released [v0.4.0: Fix `ddev xdebug` and `ddev launch`](https://github.com/stasadev/ddev-frankenphp/releases/tag/v0.4.0) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-14. 🎉 Merged PR [#28](https://github.com/stasadev/ddev-frankenphp/pull/28) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-15. 💬 Commented on [#7616](https://github.com/ddev/ddev/issues/7616#issuecomment-3285065936) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💪 Opened PR [#28](https://github.com/stasadev/ddev-frankenphp/pull/28) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-17. ✔️ Closed issue [#25](https://github.com/stasadev/ddev-frankenphp/issues/25) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-18. ✔️ Closed issue [#13](https://github.com/stasadev/ddev-frankenphp/issues/13) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-19. 🎉 Merged PR [#27](https://github.com/stasadev/ddev-frankenphp/pull/27) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-20. 💬 Commented on [#7614](https://github.com/ddev/ddev/pull/7614#issuecomment-3284847099) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#7642](https://github.com/ddev/ddev/pull/7642#issuecomment-3312942511) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#7608](https://github.com/ddev/ddev/pull/7608#issuecomment-3308211013) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#444042](https://github.com/NixOS/nixpkgs/pull/444042#issuecomment-3308184557) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
+4. 💬 Commented on [#7608](https://github.com/ddev/ddev/pull/7608#issuecomment-3307980696) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#3](https://github.com/weitzman/ddev-mtk/issues/3#issuecomment-3306477127) in [weitzman/ddev-mtk](https://github.com/weitzman/ddev-mtk)<br>
+6. 💬 Commented on [#7637](https://github.com/ddev/ddev/pull/7637#issuecomment-3306323132) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 🎉 Merged PR [#7636](https://github.com/ddev/ddev/pull/7636) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 🎉 Merged PR [#7634](https://github.com/ddev/ddev/pull/7634) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 🎉 Merged PR [#35](https://github.com/stasadev/ddev-frankenphp/pull/35) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+10. 💪 Opened PR [#35](https://github.com/stasadev/ddev-frankenphp/pull/35) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+11. 🎉 Merged PR [#7633](https://github.com/ddev/ddev/pull/7633) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#31](https://github.com/stasadev/ddev-frankenphp/issues/31#issuecomment-3303566884) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+13. ✌️ Released [v0.4.1](https://github.com/stasadev/ddev-frankenphp/releases/tag/v0.4.1) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+14. ✔️ Closed issue [#29](https://github.com/stasadev/ddev-frankenphp/issues/29) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+15. ✔️ Closed issue [#31](https://github.com/stasadev/ddev-frankenphp/issues/31) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+16. 🎉 Merged PR [#34](https://github.com/stasadev/ddev-frankenphp/pull/34) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+17. 🔴 Requested changes in [#21](https://github.com/atj4me/ddev-tailscale-router/pull/21#pullrequestreview-3234648981) in [atj4me/ddev-tailscale-router](https://github.com/atj4me/ddev-tailscale-router)<br>
+18. 👍 Approved [#89](https://github.com/ddev/ddev-addon-template/pull/89#pullrequestreview-3235042979) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+19. 💪 Opened PR [#34](https://github.com/stasadev/ddev-frankenphp/pull/34) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+20. ❗️ Opened issue [#33](https://github.com/stasadev/ddev-frankenphp/issues/33) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
