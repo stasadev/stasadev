@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7642](https://github.com/ddev/ddev/pull/7642#issuecomment-3312942511) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7608](https://github.com/ddev/ddev/pull/7608#issuecomment-3308211013) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#444042](https://github.com/NixOS/nixpkgs/pull/444042#issuecomment-3308184557) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
-4. 💬 Commented on [#7608](https://github.com/ddev/ddev/pull/7608#issuecomment-3307980696) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#3](https://github.com/weitzman/ddev-mtk/issues/3#issuecomment-3306477127) in [weitzman/ddev-mtk](https://github.com/weitzman/ddev-mtk)<br>
-6. 💬 Commented on [#7637](https://github.com/ddev/ddev/pull/7637#issuecomment-3306323132) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 🎉 Merged PR [#7636](https://github.com/ddev/ddev/pull/7636) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 🎉 Merged PR [#7634](https://github.com/ddev/ddev/pull/7634) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 🎉 Merged PR [#35](https://github.com/stasadev/ddev-frankenphp/pull/35) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-10. 💪 Opened PR [#35](https://github.com/stasadev/ddev-frankenphp/pull/35) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-11. 🎉 Merged PR [#7633](https://github.com/ddev/ddev/pull/7633) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 💬 Commented on [#31](https://github.com/stasadev/ddev-frankenphp/issues/31#issuecomment-3303566884) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-13. ✌️ Released [v0.4.1](https://github.com/stasadev/ddev-frankenphp/releases/tag/v0.4.1) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-14. ✔️ Closed issue [#29](https://github.com/stasadev/ddev-frankenphp/issues/29) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-15. ✔️ Closed issue [#31](https://github.com/stasadev/ddev-frankenphp/issues/31) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-16. 🎉 Merged PR [#34](https://github.com/stasadev/ddev-frankenphp/pull/34) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-17. 🔴 Requested changes in [#21](https://github.com/atj4me/ddev-tailscale-router/pull/21#pullrequestreview-3234648981) in [atj4me/ddev-tailscale-router](https://github.com/atj4me/ddev-tailscale-router)<br>
-18. 👍 Approved [#89](https://github.com/ddev/ddev-addon-template/pull/89#pullrequestreview-3235042979) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-19. 💪 Opened PR [#34](https://github.com/stasadev/ddev-frankenphp/pull/34) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
-20. ❗️ Opened issue [#33](https://github.com/stasadev/ddev-frankenphp/issues/33) in [stasadev/ddev-frankenphp](https://github.com/stasadev/ddev-frankenphp)<br>
+1. 👍 Approved [#91](https://github.com/ddev/ddev-addon-template/pull/91#pullrequestreview-3268842031) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
+2. 👍 Approved [#1](https://github.com/ddev/.github/pull/1#pullrequestreview-3268734890) in [ddev/.github](https://github.com/ddev/.github)<br>
+3. 👍 Approved [#7653](https://github.com/ddev/ddev/pull/7653#pullrequestreview-3267301019) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💪 Opened PR [#438](https://github.com/ddev/ddev.com/pull/438) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. 🎉 Merged PR [#437](https://github.com/ddev/ddev.com/pull/437) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+6. 💬 Commented on [#437](https://github.com/ddev/ddev.com/pull/437#issuecomment-3333336021) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+7. 💬 Commented on [#29](https://github.com/julienloizelet/ddev-playwright/issues/29#issuecomment-3333316686) in [julienloizelet/ddev-playwright](https://github.com/julienloizelet/ddev-playwright)<br>
+8. 💬 Commented on [#8800](https://github.com/docker/compose/issues/8800#issuecomment-3333171356) in [docker/compose](https://github.com/docker/compose)<br>
+9. 💬 Commented on [#7645](https://github.com/ddev/ddev/pull/7645#issuecomment-3330628105) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#7645](https://github.com/ddev/ddev/pull/7645#pullrequestreview-3264632023) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#7658](https://github.com/ddev/ddev/pull/7658#discussion_r2376839270) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#7658](https://github.com/ddev/ddev/pull/7658#issuecomment-3329970880) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💪 Opened PR [#7658](https://github.com/ddev/ddev/pull/7658) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. ❗️ Opened issue [#7657](https://github.com/ddev/ddev/issues/7657) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💪 Opened PR [#436](https://github.com/ddev/ddev.com/pull/436) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+16. 💪 Opened PR [#435](https://github.com/ddev/ddev.com/pull/435) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+17. 💬 Commented on [#2276](https://github.com/ddev/ddev/issues/2276#issuecomment-3324698875) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#7642](https://github.com/ddev/ddev/pull/7642#issuecomment-3323746818) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#7642](https://github.com/ddev/ddev/pull/7642#discussion_r2372047762) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#7642](https://github.com/ddev/ddev/pull/7642#discussion_r2372045367) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
