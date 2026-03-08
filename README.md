@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#27](https://github.com/ddev/ddev-typo3-solr/pull/27#pullrequestreview-3867353670) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
-2. 💬 Commented on [#8183](https://github.com/ddev/ddev/issues/8183#issuecomment-3971426128) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#9](https://github.com/DiffyWebsite/ddev-diffy/pull/9#issuecomment-3971279408) in [DiffyWebsite/ddev-diffy](https://github.com/DiffyWebsite/ddev-diffy)<br>
-4. 💬 Commented on [#64](https://github.com/fauust/ansible-role-mariadb/pull/64#issuecomment-3966647472) in [fauust/ansible-role-mariadb](https://github.com/fauust/ansible-role-mariadb)<br>
-5. 💬 Commented on [#9](https://github.com/DiffyWebsite/ddev-diffy/pull/9#issuecomment-3966618449) in [DiffyWebsite/ddev-diffy](https://github.com/DiffyWebsite/ddev-diffy)<br>
-6. 💪 Opened PR [#9](undefined) in [DiffyWebsite/ddev-diffy](https://github.com/DiffyWebsite/ddev-diffy)<br>
-7. 🔱 Forked [stasforks/ddev-diffy](https://github.com/stasforks/ddev-diffy) from [DiffyWebsite/ddev-diffy](https://github.com/DiffyWebsite/ddev-diffy)<br>
-8. 💬 Commented on [#558](https://github.com/ddev/ddev.com/pull/558#issuecomment-3965870143) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-9. 💬 Commented on [#557](https://github.com/ddev/ddev.com/pull/557#issuecomment-3958937562) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-10. 💬 Commented on [#557](https://github.com/ddev/ddev.com/pull/557#issuecomment-3958389329) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-11. 💬 Commented on [#20](https://github.com/ddev/ddev-memcached/issues/20#issuecomment-3958248451) in [ddev/ddev-memcached](https://github.com/ddev/ddev-memcached)<br>
-12. 👍 Approved [#47](https://github.com/ddev/remote-config/pull/47#pullrequestreview-3850229984) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
-13. 💬 Commented on [#47](https://github.com/ddev/remote-config/pull/47#discussion_r2849269244) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
-14. 💪 Opened PR [#557](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-15. 💬 Commented on [#47](https://github.com/ddev/remote-config/pull/47#discussion_r2848813149) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
-16. 💬 Commented on [#47](https://github.com/ddev/remote-config/pull/47#discussion_r2848807744) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
-17. 💬 Commented on [#47](https://github.com/ddev/remote-config/pull/47#discussion_r2848792932) in [ddev/remote-config](https://github.com/ddev/remote-config)<br>
-18. 👍 Approved [#556](https://github.com/ddev/ddev.com/pull/556#pullrequestreview-3849294450) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-19. 💬 Commented on [#556](https://github.com/ddev/ddev.com/pull/556#discussion_r2848392189) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-20. 💬 Commented on [#8152](https://github.com/ddev/ddev/pull/8152#issuecomment-3953208630) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#29](https://github.com/ddev/ddev-phpmyadmin/issues/29#issuecomment-4013661526) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
+2. 💬 Commented on [#8136](https://github.com/ddev/ddev/issues/8136#issuecomment-4013467386) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#6558](https://github.com/moby/buildkit/pull/6558#issuecomment-4013422122) in [moby/buildkit](https://github.com/moby/buildkit)<br>
+4. 👍 Approved [#6558](https://github.com/moby/buildkit/pull/6558#pullrequestreview-3904038288) in [moby/buildkit](https://github.com/moby/buildkit)<br>
+5. 💬 Commented on [#562](https://github.com/ddev/ddev.com/pull/562#issuecomment-4006262329) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+6. 💬 Commented on [#561](https://github.com/ddev/ddev.com/pull/561#issuecomment-4006223331) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+7. 👍 Approved [#559](https://github.com/ddev/ddev.com/pull/559#pullrequestreview-3897858484) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+8. 💪 Opened PR [#565](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+9. 💬 Commented on [#6521](https://github.com/moby/buildkit/issues/6521#issuecomment-4005775536) in [moby/buildkit](https://github.com/moby/buildkit)<br>
+10. 🤝 Became collaborator on [rfay/buildx-6521-repro](https://github.com/rfay/buildx-6521-repro)<br>
+11. 💬 Commented on [#6521](https://github.com/moby/buildkit/issues/6521#issuecomment-4005542077) in [moby/buildkit](https://github.com/moby/buildkit)<br>
+12. 💪 Opened PR [#22](undefined) in [UltraBob/ddev-drupal-code-quality](https://github.com/UltraBob/ddev-drupal-code-quality)<br>
+13. 🔱 Forked [stasadev/ddev-drupal-code-quality](https://github.com/stasadev/ddev-drupal-code-quality) from [UltraBob/ddev-drupal-code-quality](https://github.com/UltraBob/ddev-drupal-code-quality)<br>
+14. 💬 Commented on [#8195](https://github.com/ddev/ddev/pull/8195#issuecomment-4000089733) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💪 Opened PR [#8203](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 👍 Approved [#8199](https://github.com/ddev/ddev/pull/8199#pullrequestreview-3891551305) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 👍 Approved [#8200](https://github.com/ddev/ddev/pull/8200#pullrequestreview-3891548471) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#560](https://github.com/ddev/ddev.com/pull/560#discussion_r2885540180) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+19. 💬 Commented on [#560](https://github.com/ddev/ddev.com/pull/560#discussion_r2885537894) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+20. 💪 Opened PR [#560](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
