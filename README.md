@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#83](https://github.com/justafish/ddev-drupal-core-dev/pull/83#issuecomment-4054977750) in [justafish/ddev-drupal-core-dev](https://github.com/justafish/ddev-drupal-core-dev)<br>
-2. 💬 Commented on [#8219](https://github.com/ddev/ddev/pull/8219#issuecomment-4045228289) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#58](https://github.com/ddev/github-action-add-on-test/issues/58#issuecomment-4044971950) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-4. ✔️ Closed issue [#58](https://github.com/ddev/github-action-add-on-test/issues/58) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-5. 💪 Opened PR [#59](undefined) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-6. 💬 Commented on [#56](https://github.com/ddev/github-action-add-on-test/pull/56#discussion_r2922896563) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-7. ❗️ Opened issue [#58](https://github.com/ddev/github-action-add-on-test/issues/58) in [ddev/github-action-add-on-test](https://github.com/ddev/github-action-add-on-test)<br>
-8. 💬 Commented on [#8189](https://github.com/ddev/ddev/issues/8189#issuecomment-4044569088) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 👍 Approved [#8185](https://github.com/ddev/ddev/pull/8185#pullrequestreview-3932139136) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 👍 Approved [#8213](https://github.com/ddev/ddev/pull/8213#pullrequestreview-3932113666) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#8189](https://github.com/ddev/ddev/issues/8189#issuecomment-4039047681) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. ✌️ Released [v1.0.2](https://github.com/ddev/ddev-phpmyadmin/releases/tag/v1.0.2) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
-13. 💪 Opened PR [#31](undefined) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
-14. ✔️ Closed issue [#29](https://github.com/ddev/ddev-phpmyadmin/issues/29) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
-15. 👍 Approved [#30](https://github.com/ddev/ddev-phpmyadmin/pull/30#pullrequestreview-3929223016) in [ddev/ddev-phpmyadmin](https://github.com/ddev/ddev-phpmyadmin)<br>
-16. 💬 Commented on [#8220](https://github.com/ddev/ddev/issues/8220#issuecomment-4038801152) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#8189](https://github.com/ddev/ddev/issues/8189#issuecomment-4038737426) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#8218](https://github.com/ddev/ddev/pull/8218#issuecomment-4035187253) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💪 Opened PR [#8218](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 👍 Approved [#8217](https://github.com/ddev/ddev/pull/8217#pullrequestreview-3925792281) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#8242](https://github.com/ddev/ddev/issues/8242#issuecomment-4097563260) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8242](https://github.com/ddev/ddev/issues/8242#issuecomment-4097546461) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ❌ Closed PR [#83](undefined) in [justafish/ddev-drupal-core-dev](https://github.com/justafish/ddev-drupal-core-dev)<br>
+4. 💬 Commented on [#84](https://github.com/justafish/ddev-drupal-core-dev/pull/84#issuecomment-4091210972) in [justafish/ddev-drupal-core-dev](https://github.com/justafish/ddev-drupal-core-dev)<br>
+5. 💬 Commented on [#84](https://github.com/justafish/ddev-drupal-core-dev/pull/84#issuecomment-4091056247) in [justafish/ddev-drupal-core-dev](https://github.com/justafish/ddev-drupal-core-dev)<br>
+6. 💬 Commented on [#8239](https://github.com/ddev/ddev/issues/8239#issuecomment-4090565914) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#8239](https://github.com/ddev/ddev/issues/8239#issuecomment-4090331271) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#8235](https://github.com/ddev/ddev/issues/8235#issuecomment-4089019965) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8239](https://github.com/ddev/ddev/issues/8239#issuecomment-4088990339) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8235](https://github.com/ddev/ddev/issues/8235#issuecomment-4088836184) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 👍 Approved [#8238](https://github.com/ddev/ddev/pull/8238#pullrequestreview-3973780470) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 🔴 Requested changes in [#8238](https://github.com/ddev/ddev/pull/8238#pullrequestreview-3973715444) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#8238](https://github.com/ddev/ddev/pull/8238#discussion_r2958708864) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#8238](https://github.com/ddev/ddev/pull/8238#discussion_r2958708294) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#8238](https://github.com/ddev/ddev/pull/8238#discussion_r2958707551) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#8238](https://github.com/ddev/ddev/pull/8238#discussion_r2958706765) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#8238](https://github.com/ddev/ddev/pull/8238#discussion_r2958705966) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#8238](https://github.com/ddev/ddev/pull/8238#discussion_r2958705228) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#5486](https://github.com/ddev/ddev/issues/5486#issuecomment-4084359622) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#8181](https://github.com/ddev/ddev/pull/8181#issuecomment-4082653447) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
