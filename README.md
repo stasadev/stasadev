@@ -40,14 +40,14 @@ My name is Stas.
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=stasadev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+      srcset="./profile/stats-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=stasadev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+      srcset="./profile/stats-light.svg"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=stasadev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+    <img src="./profile/stats-light.svg" />
   </picture>
 
 </details>
