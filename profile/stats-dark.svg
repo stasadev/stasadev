@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Stanislav Zhuk's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  : 1393, Total PRs: 1065, Total Issues: 179, Contributed to (last year): 65</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  : 1412, Total PRs: 1083, Total Issues: 181, Contributed to (last year): 65</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.6869850795027;
+        stroke-dashoffset: 93.47040215244111;
       }
     }
   
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >179</text>
+      >181</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
