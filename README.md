@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#issuecomment-4361936883) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ❗️ Opened issue [#8378](https://github.com/ddev/ddev/issues/8378) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💪 Opened PR [#8377](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💪 Opened PR [#8376](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#8373](https://github.com/ddev/ddev/pull/8373#issuecomment-4360138703) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💪 Opened PR [#8375](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#104](undefined) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-8. 💬 Commented on [#8373](https://github.com/ddev/ddev/pull/8373#issuecomment-4359804444) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#8373](https://github.com/ddev/ddev/pull/8373#issuecomment-4359780999) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#8374](https://github.com/ddev/ddev/issues/8374#issuecomment-4359479414) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. ❗️ Opened issue [#107](https://github.com/ddev/coder-ddev/issues/107) in [ddev/coder-ddev](https://github.com/ddev/coder-ddev)<br>
-12. ✌️ Released [v1.1.0](https://github.com/ddev/ddev-varnish/releases/tag/v1.1.0) in [ddev/ddev-varnish](https://github.com/ddev/ddev-varnish)<br>
-13. 💪 Opened PR [#50](undefined) in [ddev/ddev-varnish](https://github.com/ddev/ddev-varnish)<br>
-14. 💪 Opened PR [#8373](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💪 Opened PR [#103](undefined) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-16. 💬 Commented on [#33](https://github.com/ddev/ddev-elasticsearch/pull/33#issuecomment-4358536769) in [ddev/ddev-elasticsearch](https://github.com/ddev/ddev-elasticsearch)<br>
-17. 👍 Approved [#102](https://github.com/ddev/ddev-addon-template/pull/102#pullrequestreview-4210574028) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-18. 💬 Commented on [#102](https://github.com/ddev/ddev-addon-template/pull/102#discussion_r3172617424) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-19. 👍 Approved [#8368](https://github.com/ddev/ddev/pull/8368#pullrequestreview-4210449809) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 👍 Approved [#2](https://github.com/ddev/.github/pull/2#pullrequestreview-4207322483) in [ddev/.github](https://github.com/ddev/.github)<br>
+1. 👍 Approved [#8396](https://github.com/ddev/ddev/pull/8396#pullrequestreview-4257867847) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💪 Opened PR [#8394](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. ✌️ Released [v1.3.0](https://github.com/ddev/ddev-pnpm/releases/tag/v1.3.0) in [ddev/ddev-pnpm](https://github.com/ddev/ddev-pnpm)<br>
+4. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#issuecomment-4408414406) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3209853158) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3209849168) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3209899465) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3209890744) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3209840116) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3209837727) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💪 Opened PR [#13](undefined) in [ddev/ddev-pnpm](https://github.com/ddev/ddev-pnpm)<br>
+12. 💬 Commented on [#8393](https://github.com/ddev/ddev/issues/8393#issuecomment-4406854636) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. ❗️ Opened issue [#8393](https://github.com/ddev/ddev/issues/8393) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#13784](https://github.com/docker/compose/pull/13784#issuecomment-4406204129) in [docker/compose](https://github.com/docker/compose)<br>
+15. ✔️ Closed issue [#8390](https://github.com/ddev/ddev/issues/8390) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💬 Commented on [#8390](https://github.com/ddev/ddev/issues/8390#issuecomment-4405253120) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#8223](https://github.com/docker/compose/issues/8223#issuecomment-4405217577) in [docker/compose](https://github.com/docker/compose)<br>
+18. 💪 Opened PR [#13784](undefined) in [docker/compose](https://github.com/docker/compose)<br>
+19. 💬 Commented on [#8234](https://github.com/ddev/ddev/pull/8234#discussion_r3203484942) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#30](https://github.com/ddev/ddev-typo3-solr/pull/30#discussion_r3202629718) in [ddev/ddev-typo3-solr](https://github.com/ddev/ddev-typo3-solr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
