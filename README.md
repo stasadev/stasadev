@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7372](https://github.com/ddev/ddev/issues/7372#issuecomment-4826545592) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 💬 Commented on [#7372](https://github.com/ddev/ddev/issues/7372#issuecomment-4825827465) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#8530](https://github.com/ddev/ddev/pull/8530#discussion_r3487695129) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#8531](https://github.com/ddev/ddev/pull/8531#discussion_r3487692269) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#8531](https://github.com/ddev/ddev/pull/8531#discussion_r3487691101) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#8531](https://github.com/ddev/ddev/pull/8531#discussion_r3487677841) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#8532](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#8493](https://github.com/ddev/ddev/issues/8493#issuecomment-4810288230) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💪 Opened PR [#8531](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. ✔️ Closed issue [#8520](https://github.com/ddev/ddev/issues/8520) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💬 Commented on [#655](https://github.com/ddev/ddev.com/pull/655#issuecomment-4801297279) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-12. 💬 Commented on [#289657](https://github.com/Homebrew/homebrew-core/pull/289657#issuecomment-4797657240) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)<br>
-13. ✔️ Closed issue [#8433](https://github.com/ddev/ddev/issues/8433) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💪 Opened PR [#8528](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#8526](https://github.com/ddev/ddev/pull/8526#issuecomment-4799764776) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💪 Opened PR [#8527](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💪 Opened PR [#289786](undefined) in [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)<br>
-18. 💬 Commented on [#8526](https://github.com/ddev/ddev/pull/8526#issuecomment-4797662205) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💪 Opened PR [#8526](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💪 Opened PR [#8525](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#658](https://github.com/ddev/ddev.com/pull/658#discussion_r3521018666) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+2. 💬 Commented on [#658](https://github.com/ddev/ddev.com/pull/658#discussion_r3520700760) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+3. 💬 Commented on [#658](https://github.com/ddev/ddev.com/pull/658#issuecomment-4877490861) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+4. 💪 Opened PR [#658](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. 💪 Opened PR [#8553](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. ✔️ Closed issue [#8434](https://github.com/ddev/ddev/issues/8434) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 👍 Approved [#8543](https://github.com/ddev/ddev/pull/8543#pullrequestreview-4625083856) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#8552](https://github.com/ddev/ddev/pull/8552#issuecomment-4874324189) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#3696](https://github.com/ddev/ddev/issues/3696#issuecomment-4874299874) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#4979](https://github.com/ddev/ddev/issues/4979#issuecomment-4874274766) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💬 Commented on [#8548](https://github.com/ddev/ddev/pull/8548#discussion_r3515516384) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#8548](https://github.com/ddev/ddev/pull/8548#discussion_r3515514831) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 👍 Approved [#8548](https://github.com/ddev/ddev/pull/8548#pullrequestreview-4620467314) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#8548](https://github.com/ddev/ddev/pull/8548#discussion_r3515515767) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💬 Commented on [#8552](https://github.com/ddev/ddev/pull/8552#issuecomment-4869484356) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💪 Opened PR [#8552](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#8550](https://github.com/ddev/ddev/issues/8550#issuecomment-4866638982) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#8551](https://github.com/ddev/ddev/pull/8551#issuecomment-4866592439) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💪 Opened PR [#8551](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 💬 Commented on [#1822](https://github.com/ddev/ddev/issues/1822#issuecomment-4865446843) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
