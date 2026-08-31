@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8717](https://github.com/ddev/ddev/pull/8717#issuecomment-5373559932) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. 👍 Approved [#8716](https://github.com/ddev/ddev/pull/8716#pullrequestreview-4996103405) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#8717](https://github.com/ddev/ddev/pull/8717#issuecomment-5373406114) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 🔴 Requested changes in [#8717](https://github.com/ddev/ddev/pull/8717#pullrequestreview-4995973008) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. ❗️ Opened issue [#87](https://github.com/ddev/addon-registry/issues/87) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-6. ❗️ Opened issue [#86](https://github.com/ddev/addon-registry/issues/86) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-7. ❗️ Opened issue [#85](https://github.com/ddev/addon-registry/issues/85) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-8. 💬 Commented on [#1](https://github.com/zone1987/ddev-shopware/issues/1#issuecomment-5372678399) in [zone1987/ddev-shopware](https://github.com/zone1987/ddev-shopware)<br>
-9. 👍 Approved [#8723](https://github.com/ddev/ddev/pull/8723#pullrequestreview-4995457290) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 💬 Commented on [#84](https://github.com/ddev/addon-registry/pull/84#issuecomment-5372537371) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-11. 💪 Opened PR [#84](undefined) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-12. 👍 Approved [#8722](https://github.com/ddev/ddev/pull/8722#pullrequestreview-4995087501) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. ✌️ Released [v1.4.1](https://github.com/ddev/ddev-adminer/releases/tag/v1.4.1) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-14. 💪 Opened PR [#57](undefined) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-15. ✌️ Released [v1.4.0: Adminer 6](https://github.com/ddev/ddev-adminer/releases/tag/v1.4.0) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-16. 💪 Opened PR [#56](undefined) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-17. 💪 Opened PR [#55](undefined) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-18. 💪 Opened PR [#54](undefined) in [ddev/ddev-adminer](https://github.com/ddev/ddev-adminer)<br>
-19. 👍 Approved [#8712](https://github.com/ddev/ddev/pull/8712#pullrequestreview-4965574064) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💬 Commented on [#8713](https://github.com/ddev/ddev/issues/8713#issuecomment-5333798803) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#8773](https://github.com/ddev/ddev/issues/8773#issuecomment-5469601471) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. ❗️ Opened issue [#8773](https://github.com/ddev/ddev/issues/8773) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#8771](https://github.com/ddev/ddev/issues/8771#issuecomment-5469401962) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#8327](https://github.com/ddev/ddev/pull/8327#discussion_r3884196240) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+5. 👍 Approved [#8755](https://github.com/ddev/ddev/pull/8755#pullrequestreview-5042147421) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#8327](https://github.com/ddev/ddev/pull/8327#issuecomment-5457836940) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#8738](https://github.com/ddev/ddev/pull/8738#issuecomment-5457660974) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 👍 Approved [#8767](https://github.com/ddev/ddev/pull/8767#pullrequestreview-5054568756) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8327](https://github.com/ddev/ddev/pull/8327#issuecomment-5456900160) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 👍 Approved [#8760](https://github.com/ddev/ddev/pull/8760#pullrequestreview-5050185676) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. ✔️ Closed issue [#6961](https://github.com/ddev/ddev/issues/6961) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 👍 Approved [#8756](https://github.com/ddev/ddev/pull/8756#pullrequestreview-5049732440) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💪 Opened PR [#8762](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💪 Opened PR [#8761](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 👍 Approved [#8733](https://github.com/ddev/ddev/pull/8733#pullrequestreview-5044272030) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💪 Opened PR [#8759](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💪 Opened PR [#8758](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. ❗️ Opened issue [#8757](https://github.com/ddev/ddev/issues/8757) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 💬 Commented on [#8733](https://github.com/ddev/ddev/pull/8733#discussion_r3874166656) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 👍 Approved [#8749](https://github.com/ddev/ddev/pull/8749#pullrequestreview-5043543323) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
