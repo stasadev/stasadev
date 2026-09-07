@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8773](https://github.com/ddev/ddev/issues/8773#issuecomment-5469601471) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ❗️ Opened issue [#8773](https://github.com/ddev/ddev/issues/8773) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#8771](https://github.com/ddev/ddev/issues/8771#issuecomment-5469401962) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#8327](https://github.com/ddev/ddev/pull/8327#discussion_r3884196240) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#8755](https://github.com/ddev/ddev/pull/8755#pullrequestreview-5042147421) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💬 Commented on [#8327](https://github.com/ddev/ddev/pull/8327#issuecomment-5457836940) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#8738](https://github.com/ddev/ddev/pull/8738#issuecomment-5457660974) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 👍 Approved [#8767](https://github.com/ddev/ddev/pull/8767#pullrequestreview-5054568756) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#8327](https://github.com/ddev/ddev/pull/8327#issuecomment-5456900160) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 👍 Approved [#8760](https://github.com/ddev/ddev/pull/8760#pullrequestreview-5050185676) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. ✔️ Closed issue [#6961](https://github.com/ddev/ddev/issues/6961) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. 👍 Approved [#8756](https://github.com/ddev/ddev/pull/8756#pullrequestreview-5049732440) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💪 Opened PR [#8762](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💪 Opened PR [#8761](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 👍 Approved [#8733](https://github.com/ddev/ddev/pull/8733#pullrequestreview-5044272030) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💪 Opened PR [#8759](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💪 Opened PR [#8758](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. ❗️ Opened issue [#8757](https://github.com/ddev/ddev/issues/8757) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. 💬 Commented on [#8733](https://github.com/ddev/ddev/pull/8733#discussion_r3874166656) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 👍 Approved [#8749](https://github.com/ddev/ddev/pull/8749#pullrequestreview-5043543323) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. ❗️ Opened issue [#8806](https://github.com/ddev/ddev/issues/8806) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8805](https://github.com/ddev/ddev/pull/8805#discussion_r3940567769) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 🔴 Requested changes in [#738](https://github.com/ddev/ddev.com/pull/738#pullrequestreview-5121107387) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+4. 💬 Commented on [#738](https://github.com/ddev/ddev.com/pull/738#discussion_r3940188094) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. 👍 Approved [#8803](https://github.com/ddev/ddev/pull/8803#pullrequestreview-5116580130) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💪 Opened PR [#8805](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 👍 Approved [#8799](https://github.com/ddev/ddev/pull/8799#pullrequestreview-5103573419) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#8799](https://github.com/ddev/ddev/pull/8799#discussion_r3923574965) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💪 Opened PR [#8800](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#559205](https://github.com/NixOS/nixpkgs/pull/559205#issuecomment-5523714647) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
+11. 💬 Commented on [#559205](https://github.com/NixOS/nixpkgs/pull/559205#issuecomment-5516492339) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
+12. 💬 Commented on [#559205](https://github.com/NixOS/nixpkgs/pull/559205#issuecomment-5516364786) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)<br>
+13. 💪 Opened PR [#736](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+14. 💬 Commented on [#713](https://github.com/ddev/ddev.com/pull/713#issuecomment-5515420669) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+15. 💬 Commented on [#732](https://github.com/ddev/ddev.com/pull/732#issuecomment-5515416857) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+16. 💬 Commented on [#734](https://github.com/ddev/ddev.com/pull/734#issuecomment-5515289083) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+17. ❗️ Opened issue [#735](https://github.com/ddev/ddev.com/issues/735) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+18. 💪 Opened PR [#734](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+19. 👍 Approved [#733](https://github.com/ddev/ddev.com/pull/733#pullrequestreview-5093678217) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+20. 👍 Approved [#8796](https://github.com/ddev/ddev/pull/8796#pullrequestreview-5093629049) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
