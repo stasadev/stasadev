@@ -11,20 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#752](https://github.com/ddev/ddev.com/pull/752#discussion_r4232476243) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-2. ✌️ Released [v1.3.0: PHP 8.6](https://github.com/ddev/ddev-frankenphp/releases/tag/v1.3.0) in [ddev/ddev-frankenphp](https://github.com/ddev/ddev-frankenphp)<br>
-3. 💬 Commented on [#8920](https://github.com/ddev/ddev/pull/8920#issuecomment-6083265736) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-4. 💬 Commented on [#76](https://github.com/ddev/ddev-frankenphp/pull/76#issuecomment-6083399941) in [ddev/ddev-frankenphp](https://github.com/ddev/ddev-frankenphp)<br>
-5. 💬 Commented on [#118](https://github.com/ddev/ddev-addon-template/pull/118#issuecomment-6083325465) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-6. 👍 Approved [#8921](https://github.com/ddev/ddev/pull/8921#pullrequestreview-5471781009) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💪 Opened PR [#118](undefined) in [ddev/ddev-addon-template](https://github.com/ddev/ddev-addon-template)<br>
-8. 💪 Opened PR [#8920](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💪 Opened PR [#5](undefined) in [ddev/.github](https://github.com/ddev/.github)<br>
-10. ✔️ Closed issue [#8832](https://github.com/ddev/ddev/issues/8832) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💪 Opened PR [#41](undefined) in [ddev/ddev-gitlab-ci](https://github.com/ddev/ddev-gitlab-ci)<br>
-12. 💪 Opened PR [#76](undefined) in [ddev/ddev-frankenphp](https://github.com/ddev/ddev-frankenphp)<br>
-13. 👍 Approved [#8918](https://github.com/ddev/ddev/pull/8918#pullrequestreview-5468698184) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#8900](https://github.com/ddev/ddev/pull/8900#discussion_r4222289153) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+1. 💬 Commented on [#8959](https://github.com/ddev/ddev/pull/8959#issuecomment-6224396861) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#8958](https://github.com/ddev/ddev/issues/8958#issuecomment-6216160938) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#8743](https://github.com/ddev/ddev/issues/8743#issuecomment-6216162873) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. 💬 Commented on [#6](https://github.com/ddev/ddev-nvm/issues/6#issuecomment-6213454982) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
+5. 💬 Commented on [#4959](https://github.com/ddev/ddev/issues/4959#issuecomment-6216162409) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 💬 Commented on [#8099](https://github.com/ddev/ddev/issues/8099#issuecomment-6216161848) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#6818](https://github.com/ddev/ddev/issues/6818#issuecomment-6216161384) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#8956](https://github.com/ddev/ddev/pull/8956#issuecomment-6201033131) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#8737](https://github.com/ddev/ddev/issues/8737#issuecomment-6216163751) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💬 Commented on [#8736](https://github.com/ddev/ddev/issues/8736#issuecomment-6216163320) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 👍 Approved [#8950](https://github.com/ddev/ddev/pull/8950#pullrequestreview-5550467475) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#8947](https://github.com/ddev/ddev/pull/8947#issuecomment-6219414309) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💬 Commented on [#8948](https://github.com/ddev/ddev/pull/8948#issuecomment-6194467124) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. ❗️ Opened issue [#8960](https://github.com/ddev/ddev/issues/8960) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+15. 💪 Opened PR [#8959](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💪 Opened PR [#186](undefined) in [ddev/ddev-drupal-contrib](https://github.com/ddev/ddev-drupal-contrib)<br>
+17. 💪 Opened PR [#14](undefined) in [rfay/ddev-php-patch-build](https://github.com/rfay/ddev-php-patch-build)<br>
+18. 💪 Opened PR [#75](undefined) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
+19. ✌️ Released [v1.5.1](https://github.com/ddev/ddev-ioncube/releases/tag/v1.5.1) in [ddev/ddev-ioncube](https://github.com/ddev/ddev-ioncube)<br>
+20. ✌️ Released [v1.0.3](https://github.com/ddev/ddev-nvm/releases/tag/v1.0.3) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
