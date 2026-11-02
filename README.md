@@ -11,26 +11,22 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#9011](https://github.com/ddev/ddev/issues/9011#issuecomment-6401574886) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-2. ✔️ Closed issue [#9011](https://github.com/ddev/ddev/issues/9011) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-3. 💬 Commented on [#764](https://github.com/ddev/ddev.com/pull/764#issuecomment-6370422732) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-4. 💪 Opened PR [#9009](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 👍 Approved [#9006](https://github.com/ddev/ddev/pull/9006#pullrequestreview-5634497950) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-6. 💪 Opened PR [#9008](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-7. 💬 Commented on [#8993](https://github.com/ddev/ddev/issues/8993#issuecomment-6365348858) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#8986](https://github.com/ddev/ddev/issues/8986#issuecomment-6370253961) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 👍 Approved [#9003](https://github.com/ddev/ddev/pull/9003#pullrequestreview-5632108889) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-10. 👍 Approved [#9006](https://github.com/ddev/ddev/pull/9006#pullrequestreview-5632373130) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-11. 💪 Opened PR [#764](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-12. 💪 Opened PR [#763](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-13. 💪 Opened PR [#762](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-14. 👍 Approved [#761](https://github.com/ddev/ddev.com/pull/761#pullrequestreview-5629030184) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
-15. 💪 Opened PR [#9007](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 👍 Approved [#8987](https://github.com/ddev/ddev/pull/8987#pullrequestreview-5617670002) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💪 Opened PR [#8999](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. ✌️ Released [v1.2.1](https://github.com/ddev/ddev-sqlsrv/releases/tag/v1.2.1) in [ddev/ddev-sqlsrv](https://github.com/ddev/ddev-sqlsrv)<br>
-19. 💪 Opened PR [#59](undefined) in [ddev/ddev-sqlsrv](https://github.com/ddev/ddev-sqlsrv)<br>
-20. 💪 Opened PR [#58](undefined) in [ddev/ddev-sqlsrv](https://github.com/ddev/ddev-sqlsrv)<br>
+1. 💬 Commented on [#9032](https://github.com/ddev/ddev/pull/9032#discussion_r4427470110) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#9032](https://github.com/ddev/ddev/pull/9032#discussion_r4427469926) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💪 Opened PR [#12](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+4. 💪 Opened PR [#11](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+5. 👍 Approved [#9026](https://github.com/ddev/ddev/pull/9026#pullrequestreview-5717542148) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+6. 🔴 Requested changes in [#9032](https://github.com/ddev/ddev/pull/9032#pullrequestreview-5717240119) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+7. 💬 Commented on [#9032](https://github.com/ddev/ddev/pull/9032#issuecomment-6530694890) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+8. 💬 Commented on [#9026](https://github.com/ddev/ddev/pull/9026#discussion_r4414109386) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💬 Commented on [#9026](https://github.com/ddev/ddev/pull/9026#discussion_r4414109408) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+10. 💪 Opened PR [#10](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+11. 💪 Opened PR [#9](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+12. 💪 Opened PR [#8](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+13. 💪 Opened PR [#7](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+14. 💪 Opened PR [#6](undefined) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
+15. 💬 Commented on [#24](https://github.com/coder-ddev-com/access-requests/issues/24#issuecomment-6497171334) in [coder-ddev-com/access-requests](https://github.com/coder-ddev-com/access-requests)<br>
+16. ✔️ Closed issue [#24](https://github.com/coder-ddev-com/access-requests/issues/24) in [coder-ddev-com/access-requests](https://github.com/coder-ddev-com/access-requests)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
