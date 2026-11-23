@@ -11,26 +11,26 @@ My name is Stas.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#14](https://github.com/ddev/agent-skills/pull/14#discussion_r4565464626) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
-2. 💬 Commented on [#14](https://github.com/ddev/agent-skills/pull/14#discussion_r4565464615) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
-3. 💬 Commented on [#14](https://github.com/ddev/agent-skills/pull/14#discussion_r4565464595) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
-4. 💬 Commented on [#9098](https://github.com/ddev/ddev/pull/9098#discussion_r4552652639) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-5. 💬 Commented on [#14](https://github.com/ddev/agent-skills/pull/14#discussion_r4565510473) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
-6. 🔴 Requested changes in [#14](https://github.com/ddev/agent-skills/pull/14#pullrequestreview-5894010794) in [ddev/agent-skills](https://github.com/ddev/agent-skills)<br>
-7. 👍 Approved [#9112](https://github.com/ddev/ddev/pull/9112#pullrequestreview-5893950988) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-8. 💬 Commented on [#9120](https://github.com/ddev/ddev/issues/9120#issuecomment-6857677399) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-9. 💬 Commented on [#89](https://github.com/ddev/addon-registry/issues/89#issuecomment-6857188250) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-10. ❗️ Opened issue [#89](https://github.com/ddev/addon-registry/issues/89) in [ddev/addon-registry](https://github.com/ddev/addon-registry)<br>
-11. 💬 Commented on [#9120](https://github.com/ddev/ddev/issues/9120#issuecomment-6856661285) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-12. ✔️ Closed issue [#9120](https://github.com/ddev/ddev/issues/9120) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-13. 💬 Commented on [#8965](https://github.com/ddev/ddev/issues/8965#issuecomment-6855826123) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-14. 💬 Commented on [#9116](https://github.com/ddev/ddev/pull/9116#discussion_r4564408266) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-15. 💬 Commented on [#9116](https://github.com/ddev/ddev/pull/9116#discussion_r4564371640) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-16. 💬 Commented on [#9117](https://github.com/ddev/ddev/pull/9117#issuecomment-6854062428) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-17. 💬 Commented on [#8596](https://github.com/ddev/ddev/issues/8596#issuecomment-6853636871) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-18. 💬 Commented on [#6145](https://github.com/ddev/ddev/issues/6145#issuecomment-6853566904) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-19. ❗️ Opened issue [#9118](https://github.com/ddev/ddev/issues/9118) in [ddev/ddev](https://github.com/ddev/ddev)<br>
-20. 💪 Opened PR [#14](undefined) in [IamAndelib/window-geometry-restore](https://github.com/IamAndelib/window-geometry-restore)<br>
+1. 👍 Approved [#9160](https://github.com/ddev/ddev/pull/9160#pullrequestreview-6004003211) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+2. 💬 Commented on [#9153](https://github.com/ddev/ddev/pull/9153#discussion_r4641449440) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+3. 💬 Commented on [#9153](https://github.com/ddev/ddev/pull/9153#discussion_r4641449193) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+4. ❗️ Opened issue [#786](https://github.com/ddev/ddev.com/issues/786) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+5. ❗️ Opened issue [#28](https://github.com/ddev/ddev-upsun/issues/28) in [ddev/ddev-upsun](https://github.com/ddev/ddev-upsun)<br>
+6. ❗️ Opened issue [#20](https://github.com/ddev/ddev-pnpm/issues/20) in [ddev/ddev-pnpm](https://github.com/ddev/ddev-pnpm)<br>
+7. ❗️ Opened issue [#8](https://github.com/ddev/ddev-nvm/issues/8) in [ddev/ddev-nvm](https://github.com/ddev/ddev-nvm)<br>
+8. ✌️ Released [v1.25.6](https://github.com/ddev/ddev/releases/tag/v1.25.6) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+9. 💪 Opened PR [#785](undefined) in [ddev/ddev.com](https://github.com/ddev/ddev.com)<br>
+10. ✔️ Closed issue [#9149](https://github.com/ddev/ddev/issues/9149) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+11. 💪 Opened PR [#9159](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+12. 💬 Commented on [#9157](https://github.com/ddev/ddev/pull/9157#issuecomment-7047161910) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+13. 💪 Opened PR [#9158](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+14. 💬 Commented on [#441](https://github.com/ddev/ddev-intellij-plugin/issues/441#issuecomment-7038992229) in [ddev/ddev-intellij-plugin](https://github.com/ddev/ddev-intellij-plugin)<br>
+15. 💪 Opened PR [#9155](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+16. 💪 Opened PR [#9154](undefined) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+17. 💬 Commented on [#9153](https://github.com/ddev/ddev/pull/9153#discussion_r4641449599) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+18. 💬 Commented on [#9153](https://github.com/ddev/ddev/pull/9153#discussion_r4641448963) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+19. 👍 Approved [#9151](https://github.com/ddev/ddev/pull/9151#pullrequestreview-5991402286) in [ddev/ddev](https://github.com/ddev/ddev)<br>
+20. 🔴 Requested changes in [#9153](https://github.com/ddev/ddev/pull/9153#pullrequestreview-5991308609) in [ddev/ddev](https://github.com/ddev/ddev)<br>
 <!--RECENT_ACTIVITY:end-->
 
 </details>
